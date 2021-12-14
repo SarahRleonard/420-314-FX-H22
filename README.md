@@ -1,5 +1,10 @@
 # [Plan de cours 420-314-FX-H22](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Plan%20cours%20420-314-FX%20H22.pdf)
- 
+
+- [Présentation du travail pratique #1](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP1.pdf)
+- [Présentation du travail pratique #2](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP2.pdf)
+- [Présentation du travail pratique #3](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP3.pdf)
+- [Présentation du travail pratique #4](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP4.pdf)
+
 ## Cours 1 / 14 décembre 2021 ## 
 Introduction à l’environnement de production web
 
@@ -14,11 +19,6 @@ Introduction à l’environnement de production web
 - nuget, npm, composer, pip.
 - Le versionnage de packages et la gestion des dépendances.
 - Consigner les informations dans les stories du storybook pour la ré-utilisations des composantes web.
-
-- [Présentation du travail pratique #1](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP1.pdf)
-- [Présentation du travail pratique #2](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP2.pdf)
-- [Présentation du travail pratique #3](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP3.pdf)
-- [Présentation du travail pratique #4](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/420-314-FX-H22-TP4.pdf)
 
 ## Cours 2 / reprise du 7 décembre 2021 ## 
 - [Vidéo création storybook react](https://webarchitek.ca/formations/React-Storybook.zip)
