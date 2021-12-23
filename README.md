@@ -25,3 +25,27 @@ Introduction à l’environnement de production web
 - [Publish React components as an npm package](https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f)
 - [Deploy React Component As An NPM Library](https://codeburst.io/deploy-react-component-as-an-npm-library-d396efc25122)
 - [The complete guide to publishing a React package to npm](https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/)
+
+
+## Cours 3 / Configurations 
+### 4 janvier 2022
+
+- Environnement de production traditionnel vs Environnement de production conteneurs.
+- Installation serveur Web traditionnel / Conteneur
+- Configuration serveur Web traditionnel / Conteneur
+- Configuration DNS 
+- Configuration E-Mails 
+- Création clés publiques et privés SSH
+
+Ajouter et configurer un certificat. Serveur Linux et Nginx/Docker
+Consigner les informations de configurations d’environnement technologique dans une base de connaissance.
+
+- Le CI-CD : Les dernières tendances.
+- Programmation d’un processus automatisé de livraison avec Github et Docker.
+- Utilisation de conteneur avec Docker Compose
+- Utilisation des images dockers et du hub docker.
+- Utilisation du serveur linux du collège.
+
+## Q/A TP1
+## Q/A TP2
+
