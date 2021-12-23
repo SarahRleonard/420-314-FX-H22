@@ -31,11 +31,11 @@ Introduction à l’environnement de production web
 ### 4 janvier 2022
 
 - Environnement de production traditionnel vs Environnement de production conteneurs.
-- Installation serveur Web traditionnel / Conteneur
-- Configuration serveur Web traditionnel / Conteneur
-- Configuration DNS 
-- Configuration E-Mails 
-- Création clés publiques et privés SSH
+- [Installation serveur Web traditionnel](https://docs.cpanel.net/cpanel/)  / [Conteneur](docker_compose.md)
+- [Configuration serveur Web traditionnel](https://docs.cpanel.net/cpanel/domains/domains/)  / [Conteneur](docker_compose.md)
+- [Configuration DNS CPanel](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/) 
+- [Configuration E-Mails Cpanel](https://docs.cpanel.net/cpanel/email/) 
+- [Création clés publiques et privés SSH](https://docs.cpanel.net/cpanel/security/ssh-access/)
 
 Ajouter et configurer un certificat. Serveur Linux et Nginx/Docker
 Consigner les informations de configurations d’environnement technologique dans une base de connaissance.
