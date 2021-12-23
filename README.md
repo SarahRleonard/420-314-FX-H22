@@ -42,7 +42,7 @@ Consigner les informations de configurations d’environnement technologique dan
 
 - Le CI-CD : Les dernières tendances.
 - Programmation d’un processus automatisé de livraison avec Github et Docker.
-- Utilisation de conteneur avec Docker Compose
+- [Utilisation de conteneur avec Docker Compose](docker_compose.md)
 - Utilisation des images dockers et du hub docker.
 - Utilisation du serveur linux du collège.
 
