@@ -36,9 +36,14 @@ Introduction à l’environnement de production web
 - [Configuration DNS CPanel](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/) 
 - [Configuration E-Mails Cpanel](https://docs.cpanel.net/cpanel/email/) 
 - [Création clés publiques et privés SSH](https://docs.cpanel.net/cpanel/security/ssh-access/)
+- Consigner les informations de configurations d’environnement technologique dans une base de connaissance.
 
-Ajouter et configurer un certificat. Serveur Linux et Nginx/Docker
-Consigner les informations de configurations d’environnement technologique dans une base de connaissance.
+### Q/A TP1
+### Q/A TP2
+
+
+## Cours 4 / Docker Compose 
+### 11 janvier 2022
 
 - Le CI-CD : Les dernières tendances.
 - Programmation d’un processus automatisé de livraison avec Github et Docker.
@@ -46,6 +51,8 @@ Consigner les informations de configurations d’environnement technologique dan
 - Utilisation des images dockers et du hub docker.
 - Utilisation du serveur linux du collège.
 
-## Q/A TP1
-## Q/A TP2
+- Ajouter et configurer un certificat. Serveur Linux et Nginx/Docker
+
+
+
 
