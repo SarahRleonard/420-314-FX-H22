@@ -31,9 +31,9 @@ Utilisez les espaces "Toujours"
 	  - map2: value
 		map2Prop: value
 		
--	YAML : On défini des key et value
+-	YAML : On défini des clés et valeurs
 -	Les structures plus complexe peuvent être défini en utilisant des clés qui références d'autre map
--	Les listes YAML peuvent être utilisé pour définir une séquence d'items
+-	Les listes YAML peuvent être utilisées pour définir une séquence d'items
 -	Les listes YAML peuvent définir une série de maps
 
 ### Notes : 
