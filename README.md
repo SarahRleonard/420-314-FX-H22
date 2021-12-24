@@ -20,11 +20,9 @@ Introduction à l’environnement de production web
 - Le versionnage de packages et la gestion des dépendances.
 - Consigner les informations dans les stories du storybook pour la ré-utilisations des composantes web.
 
-## Cours 2 / reprise du 7 décembre 2021 ## 
+## Cours 2 / reprise du 7 décembre 2021 (Important pour le TP1) ## 
 - [Vidéo création storybook react](https://webarchitek.ca/formations/React-Storybook.zip)
-- [Publish React components as an npm package](https://levelup.gitconnected.com/publish-react-components-as-an-npm-package-7a671a2fb7f)
-- [Deploy React Component As An NPM Library](https://codeburst.io/deploy-react-component-as-an-npm-library-d396efc25122)
-- [The complete guide to publishing a React package to npm](https://blog.logrocket.com/the-complete-guide-to-publishing-a-react-package-to-npm/)
+- [Guide pratique npm](npm_guide_technique.md)
 
 
 ## Cours 3 / Configurations 
