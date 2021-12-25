@@ -58,6 +58,7 @@ Sommaire :
 
 Docker Compose est utilisé pour construire des images et orchestrer des containeurs.
 YAML se base sur l'indentation pour définier les maps et des lists
+
 Le fichier Docker Compose utilise le YAML pour définir : 
 
 	-	La version du fichier
