@@ -444,8 +444,9 @@ Définir maintenant le nombre de réplique à créer pour un déploiement de ser
 			
 ### Explications : 
 
-replicas: 2 (Défini le nombre de répliques à construire pour le déploiement du service
-restart_policy (Défini la politique de redémarrage du service)
+	replicas: 2 (Défini le nombre de répliques à construire pour le déploiement du service
+		
+	restart_policy (Défini la politique de redémarrage du service)
 
 ### Sommaire : 
 
