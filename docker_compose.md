@@ -219,20 +219,20 @@ Pour ceux qui ont déjà administrer un système d'exploitation linux, c'est l'�
 
 ## Exemple pour monter un volume vers un bucket Amazon S3
 
-volumes:
-  s3data:
-    driver: local
+	volumes:
+ 	 s3data:
+    	driver: local
 
-services:
-  s3vol:
-    image: elementar/s3-volume
-    command: /data s3://{BUCKET NAME}
-    environment:
-      - BACKUP_INTERVAL={INTERVALL IN MINUTES (2m)}
-      - AWS_ACCESS_KEY_ID={KEY}
-      - AWS_SECRET_ACCESS_KEY={SECRET}
-    volumes:
-      - s3data:/data
+	services:
+  	s3vol:
+    	image: elementar/s3-volume
+    	command: /data s3://{BUCKET NAME}
+    	environment:
+      	- BACKUP_INTERVAL={INTERVALL IN MINUTES (2m)}
+      	- AWS_ACCESS_KEY_ID={KEY}
+      	- AWS_SECRET_ACCESS_KEY={SECRET}
+    	volumes:
+      	- s3data:/data
 	  
 ### Ensuite, vous pouvez utiliser dans le même fichier docker compose ce volume : 
 
@@ -312,26 +312,26 @@ docker network create --drive bridge isolated_network
 
 ## Rappel sur les commandes docker-compose
 
-docker-compose up -d (S'exécute en mode détaché) "Run containers in the background"
+	docker-compose up -d (S'exécute en mode détaché) "Run containers in the background"
 
 
 Dépendence sur les autres services 
 Exemple docker compose : 
 
-	services:
-	  node:
-	    image: nodeapp
-		build:
-		  context: .
-		  dockerfile: node.dockerfile
-		  args:
-		    buildversion: 1
-		ports:
-		  - "3000:3000"
-		volumes:
-		  - ./logs:/var/www/logs
-		depends_on:
-		  - mongodb
+		services:
+	  	node:
+	    	image: nodeapp
+			build:
+		  	context: .
+		  	dockerfile: node.dockerfile
+		  	args:
+		   	 buildversion: 1
+			ports:
+		  	- "3000:3000"
+			volumes:
+		  	- ./logs:/var/www/logs
+			depends_on:
+		  	- mongodb
 
 ### Explications : 
 Ce service dépend du démarrage d'un autre service "mongodb". Il faut donc démarrer mongodb en premier.
@@ -341,15 +341,15 @@ docker-compose up -d --no-deps (Ne ré-génère pas les services qu'elle dépend
 
 D'autres commandes docker-compose importantes : 
 
-docker-compose --help
-docker-compose build
-docker-compose up
-docker-compose up -d
-docker-compose up -d --no-deps [service]
-docker-compose down
-docker-compose ps
-docker-compose stop [service]
-docker-compose start [service]
+	docker-compose --help
+	docker-compose build
+	docker-compose up
+	docker-compose up -d
+	docker-compose up -d --no-deps [service]
+	docker-compose down
+	docker-compose ps
+	docker-compose stop [service]
+	docker-compose start [service]
 
 ### Sommaire :
 
@@ -368,27 +368,31 @@ docker-compose start [service]
 -	"Scale" les containeurs
 
 Commandes : 
-docker-compose logs
+	
+	docker-compose logs
+
 Affiche les logs pour tous les services
 
-docker-compose logs [service...]
+	docker-compose logs [service...]
+
 Affiche les logs pour un service spécifique
 
-docker-compose logs --tail=5
+	docker-compose logs --tail=5
+	
 Affiche les 5 dernières lignes du logs de tous les services
 
-docker-compose logs --follow
+	docker-compose logs --follow
+
 Affiche en temps réel les logs
 
 Utiliser docker exec pour se connecter dans un shell dans un containeur
 
-docker exec -it <containerId> sh
-
-
-docker exec : Prend le TTY par défaut
--it : Interactive TTY (Pas obligatoire d'être spécifié)
-<containerId> : Container Id ou NAME
-sh : Shell à utiliser ... peut aussi être bash
+	docker exec -it <containerId> sh
+	docker exec : Prend le TTY par défaut
+	
+	-it : Interactive TTY (Pas obligatoire d'être spécifié)
+	<containerId> : Container Id ou NAME
+	sh : Shell à utiliser ... peut aussi être bash
 
 
 À quoi sert ceci : 
