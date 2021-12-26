@@ -43,14 +43,11 @@ Introduction à l’environnement de production web
 ## Cours 4 / Docker Compose 
 ### 11 janvier 2022
 
-- Le CI-CD : Les dernières tendances.
-- Programmation d’un processus automatisé de livraison avec Github et Docker.
+- Le [CI-CD](ci-cd.md) : Les dernières tendances.
+- [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](docker_compose.md)
 - Utilisation des images dockers et du hub docker.
 - Utilisation du serveur linux du collège.
 
 - Ajouter et configurer un certificat. Serveur Linux et Nginx/Docker
-
-
-
 
