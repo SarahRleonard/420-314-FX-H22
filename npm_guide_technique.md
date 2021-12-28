@@ -3,10 +3,13 @@
 ## Étapes pour bâtir un package sur npmjs.com
 
 Sur le répertoire en question.
-Faire : npm adduser
-Username : <utilisateur>
-Password : $pwd
-Email : <Ici c'est public>
+    
+    Faire : npm adduser 
+    et appuyer sur "Entrer"
+
+    Username : <utilisateur>
+    Password : $pwd
+    Email : <Ici c'est public>
 
 Maintenant loggé pour faire des packages !
 
