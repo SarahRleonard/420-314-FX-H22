@@ -45,10 +45,12 @@ Utilisez les espaces "Toujours"
 
 ### Création d'un fichier docker-compose.yml
 
-version: '3.x'
-services:
+Exemple : 
 
-networks:
+	version: '3.x'
+	services:
+
+	networks:
 
 Les différentes clés de configurations d'un fichier docker-compose.yml
 
