@@ -222,19 +222,23 @@ Pour ceux qui ont déjà administrer un système d'exploitation linux, c'est l'�
 ## Exemple pour monter un volume vers un bucket Amazon S3
 
 	volumes:
- 	 s3data:
-    	driver: local
+	  s3data:
+	    driver: local
 
 	services:
-  	s3vol:
-    	image: elementar/s3-volume
-    	command: /data s3://{BUCKET NAME}
-    	environment:
-      	- BACKUP_INTERVAL={INTERVALL IN MINUTES (2m)}
-      	- AWS_ACCESS_KEY_ID={KEY}
-      	- AWS_SECRET_ACCESS_KEY={SECRET}
-    	volumes:
-      	- s3data:/data
+	  s3vol:
+	    image: elementar/s3-volume
+	    command: /data s3://{BUCKET NAME}
+	    environment:
+  	      - BACKUP_INTERVAL={INTERVALL IN MINUTES (2m)}
+  	      - AWS_ACCESS_KEY_ID={KEY}
+  	      - AWS_SECRET_ACCESS_KEY={SECRET}
+	    volumes:
+	      - s3data:/data
+	  db:
+	    image: postgres
+	    volumes:
+	      - s3data:/var/lib/postgresql/data
 	  
 ### Ensuite, vous pouvez utiliser dans le même fichier docker compose ce volume : 
 
@@ -309,6 +313,7 @@ docker network create --drive bridge isolated_network
 ### Explications : 
 
 1 - Ajouter le service "nodeapp-network" dans node
+	
 2 - Définir le network globalement
 
 
