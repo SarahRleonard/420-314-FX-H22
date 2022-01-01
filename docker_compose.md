@@ -289,21 +289,21 @@ docker network create --drive bridge isolated_network
 
 ### Exemple docker-compose : 
 
-  version: '3.x'
-  services:
-    node:
-      container_name : nodeapp
-      image: nodeapp
-      build:
-	  ...
-      ports:
-        - "3000:3000"
-      networks:
-        - nodeapp-network
+	  version: '3.x'
+	  services:
+	    node:
+	      container_name : nodeapp
+	      image: nodeapp
+	      build:
+		  ...
+	      ports:
+		- "3000:3000"
+	      networks:
+		- nodeapp-network
 
-  networks:
-    nodeapp-network:
-      driver: bridge
+	  networks:
+	    nodeapp-network:
+	      driver: bridge
 
 
 ### Explications : 
