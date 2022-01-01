@@ -43,11 +43,9 @@ Introduction à l’environnement de production web
 ## Cours 4 / Docker Compose 
 ### 11 janvier 2022
 
-- Le [CI-CD](ci-cd.md) : Les dernières tendances.
+- Le [CI-CD](ci-cd.md) 
+- [Les dernières tendances architecture web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Architecture%20Application%202022.pdf)
 - [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](docker_compose.md)
-- Utilisation des images dockers et du hub docker.
-- Utilisation du serveur linux du collège.
-
-- Ajouter et configurer un certificat. Serveur Linux et Nginx/Docker
+- Pourquoi, quand et comment utiliser Kubernetes pour le développement d'applications Web
 
