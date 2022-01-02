@@ -43,10 +43,17 @@ Introduction à l’environnement de production web
 ### 11 janvier 2022
 
 - [Les dernières tendances architecture web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Architecture%20Application%202022.pdf)
-- Environnement de production traditionnel vs Environnement de production conteneurs.
-- Pourquoi, quand et comment utiliser Kubernetes pour le développement d'applications Web
-- Comment sécuriser les applications Web contre les vulnérabilités couramment connues en 2021
-- Le [CI-CD](ci-cd.md) | [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
+- [Kubernetes pour le développement d'applications Web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Kubernetes%20pour%20le%20d%C3%A9veloppement%20d'applications%20Web.pdf) | [Kubernetes d'utilisation](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Kubernetes%20Cas%20d'utilisation.pdf)
+- [Intégration continue vs livraison continue vs déploiement continu](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Int%C3%A9gration%20continue%20vs%20livraison%20continue%20vs%20d%C3%A9ploiement%20continu.pdf)
+- [IaaS | PaaS |SaaS = Le cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/IaaS%20PaaS%20SaaS%20Le%20cloud.pdf)
+- [Les différentes sortes de cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Les%20diff%C3%A9rentes%20sortes%20de%20cloud.pdf)
+- [Architecture de sécurité du cloud computing par modèle de service cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Architecture%20S%C3%A9curit%C3%A9%20Cloud.pdf)
+- [Comment sécuriser les applications Web contre les vulnérabilités couramment connues en 2021](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Comment%20s%C3%A9curiser%20les%20applications%20Web%20contre%20les%20vuln%C3%A9rabilit%C3%A9s%20couramment%20connues%20en%202021.pdf)
+- [Meilleures pratiques de sécurité des applications Web en 2021](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Meilleures%20pratiques%20de%20s%C3%A9curit%C3%A9%20des%20applications%20Web%20en%202021.pdf)
+
+### Activité pratique d'apprentissage
+
+- [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](docker_compose.md)
 
 
