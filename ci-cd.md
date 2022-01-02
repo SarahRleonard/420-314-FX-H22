@@ -320,4 +320,4 @@ La cache action tentera de restaurer un cache en fonction de ce que keyvous four
 	-	https://help.github.com/pt/actions/configuring-and-managing-workflows/caching-dependencies-to-speed-up-workflows
 	-	https://github.com/actions/cache
 
-**Juste une note pour ceux qui utilisent à la yarn à la place de npm: vous pouvez remplacer l'utilisation du mot npm dans les exemples ci-dessus par yarn et cela devrait toujours fonctionner correctement.**
+**Juste une note pour ceux qui utilisent yarn à la place de npm: vous pouvez remplacer l'utilisation du mot npm dans les exemples ci-dessus par yarn et cela devrait toujours fonctionner correctement.**
