@@ -25,12 +25,11 @@ Introduction à l’environnement de production web
 - [Guide pratique npm](npm_guide_technique.md)
 
 
-## Cours 3 / Configurations 
+## Cours 3 / Configurations CPanel
 ### 4 janvier 2022
 
-- Environnement de production traditionnel vs Environnement de production conteneurs.
-- [Installation serveur Web traditionnel](https://docs.cpanel.net/cpanel/)  / [Conteneur](docker_compose.md)
-- [Configuration serveur Web traditionnel](https://docs.cpanel.net/cpanel/domains/domains/)  / [Conteneur](docker_compose.md)
+- [Installation serveur Web traditionnel](https://docs.cpanel.net/cpanel/) 
+- [Configuration serveur Web traditionnel](https://docs.cpanel.net/cpanel/domains/domains/)  
 - [Configuration DNS CPanel](https://docs.cpanel.net/whm/dns-functions/dns-zone-manager/) 
 - [Configuration E-Mails Cpanel](https://docs.cpanel.net/cpanel/email/) 
 - [Création clés publiques et privés SSH](https://docs.cpanel.net/cpanel/security/ssh-access/)
@@ -40,12 +39,15 @@ Introduction à l’environnement de production web
 ### Q/A TP2
 
 
-## Cours 4 / Docker Compose 
+## Cours 4 / Docker Compose / Kubernetes
 ### 11 janvier 2022
 
-- Le [CI-CD](ci-cd.md) 
 - [Les dernières tendances architecture web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Architecture%20Application%202022.pdf)
+- Environnement de production traditionnel vs Environnement de production conteneurs.
+- Pourquoi, quand et comment utiliser Kubernetes pour le développement d'applications Web
+- Comment sécuriser les applications Web contre les vulnérabilités couramment connues en 2021
+- Le [CI-CD](ci-cd.md) 
 - [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](docker_compose.md)
-- Pourquoi, quand et comment utiliser Kubernetes pour le développement d'applications Web
+
 
