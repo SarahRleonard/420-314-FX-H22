@@ -46,8 +46,7 @@ Introduction à l’environnement de production web
 - Environnement de production traditionnel vs Environnement de production conteneurs.
 - Pourquoi, quand et comment utiliser Kubernetes pour le développement d'applications Web
 - Comment sécuriser les applications Web contre les vulnérabilités couramment connues en 2021
-- Le [CI-CD](ci-cd.md) 
-- [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
+- Le [CI-CD](ci-cd.md) | [Programmation d’un processus automatisé de livraison avec Github](ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](docker_compose.md)
 
 
