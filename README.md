@@ -50,9 +50,10 @@ Introduction à l’environnement de production web
 ### 11 janvier 2022
 
 - [Les dernières tendances architecture web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Architecture%20Application%202022.pdf)
-- [Kubernetes pour le développement d'applications Web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Kubernetes%20pour%20le%20d%C3%A9veloppement%20d'applications%20Web.pdf) | [Kubernetes d'utilisation](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Kubernetes%20Cas%20d'utilisation.pdf)
+- [Kubernetes pour le développement d'applications Web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Kubernetes%20pour%20le%20d%C3%A9veloppement%20d'applications%20Web.pdf)
+- [Cas d'utilisation Kubernetes](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Kubernetes%20Cas%20d'utilisation.pdf)
 - [Intégration continue vs livraison continue vs déploiement continu](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Int%C3%A9gration%20continue%20vs%20livraison%20continue%20vs%20d%C3%A9ploiement%20continu.pdf)
-- [IaaS | PaaS |SaaS = Le cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/IaaS%20PaaS%20SaaS%20Le%20cloud.pdf)
+- [IaaS | PaaS | SaaS = Le cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/IaaS%20PaaS%20SaaS%20Le%20cloud.pdf)
 - [Les différentes sortes de cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Les%20diff%C3%A9rentes%20sortes%20de%20cloud.pdf)
 - [Architecture de sécurité du cloud computing par modèle de service cloud](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Architecture%20S%C3%A9curit%C3%A9%20Cloud.pdf)
 - [Comment sécuriser les applications Web contre les vulnérabilités couramment connues en 2021](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Comment%20s%C3%A9curiser%20les%20applications%20Web%20contre%20les%20vuln%C3%A9rabilit%C3%A9s%20couramment%20connues%20en%202021.pdf)
