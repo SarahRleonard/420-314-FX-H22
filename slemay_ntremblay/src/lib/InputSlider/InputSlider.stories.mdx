@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import InputSlider from './InputSlider'
+
+<Meta title="Example/Input slider" component={InputSlider} />
+
+# Example Component Demo
+
+## InputSlider props
+<Props of={InputSlider} />
+
+## Description
+
+`InputSlider` component provides user basic interface to increment InputSlider by one.
+
+## Demo
+
+<Canvas>
+  <Story name="Example InputSlider">
+    {(args) => <InputSlider {...args} />}
+  </Story>
+</Canvas>

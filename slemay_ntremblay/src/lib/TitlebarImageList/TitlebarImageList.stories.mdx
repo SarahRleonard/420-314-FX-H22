@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import TitlebarImageList from './TitlebarImageList'
+
+<Meta title="Example/Titlebar image list" component={TitlebarImageList} />
+
+# Example Component Demo
+
+## TitlebarImageList props
+<Props of={TitlebarImageList} />
+
+## Description
+
+`TitlebarImageList` component provides user basic interface to increment TitlebarImageList by one.
+
+## Demo
+
+<Canvas>
+  <Story name="Example TitlebarImageList">
+    {(args) => <TitlebarImageList {...args} />}
+  </Story>
+</Canvas>

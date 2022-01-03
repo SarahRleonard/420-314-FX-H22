@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import FloatingActionButtons from './FloatingActionButtons'
+
+<Meta title="Example/Floating action buttons" component={FloatingActionButtons} />
+
+# Example Component Demo
+
+## FloatingActionButtons props
+<Props of={FloatingActionButtons} />
+
+## Description
+
+`FloatingActionButtons` component provides user basic interface to increment FloatingActionButtons by one.
+
+## Demo
+
+<Canvas>
+  <Story name="FloatingActionButtons">
+    {(args) => <FloatingActionButtons {...args} />}
+  </Story>
+</Canvas>
