@@ -1,14 +1,24 @@
 import React from "react";
 import {Button} from 'antd';
 import {PropTypes} from 'prop-types';
+import './bouton.css';
+
 
 export function Bouton({backgroundColor, size, ...props}) {
     return (
-        <Button>
-          Exemple
+        <Button className="bouton-default">
+          Bouton
         </Button>
       );
     };
+
+export const BoutonPrimary = () => {
+      return (
+          <Button type="primary" className="bouton-primaire">
+            Primary
+          </Button>
+        );
+      };
 
 Bouton.propTypes = {
 
@@ -20,6 +30,6 @@ Bouton.defaultProps = {
     backgroundColor: null,
     size: 'medium',
   };
-  
+
 
 export default Bouton;
