@@ -1,6 +1,10 @@
-import { muiTheme } from 'storybook-addon-material-ui';
-
 export const parameters = {
+  customizeAntdTheme: {
+    modifyVars: {
+      'primary-color': '#ff1771',
+      'border-radius-base': '20px',
+    },
+  },
   actions: {argTypesRegex: '^on[A-Z].*'},
   controls: {
     matchers: {
@@ -18,7 +22,3 @@ export const parameters = {
     },
   },
 };
-
-export const decorators = [
-  muiTheme()
-]
