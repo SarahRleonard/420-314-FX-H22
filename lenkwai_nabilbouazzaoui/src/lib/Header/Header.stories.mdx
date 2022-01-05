@@ -1,0 +1,24 @@
+import {Props,Story } from '@storybook/addon-docs';
+import {Header, HeaderStyled} from './Header';
+
+<Meta title="Example/Header" component={Header} />
+
+# Example Component Demo
+
+## Bouton props
+<Props of={Header} />
+
+## Description
+
+`Header` sert principalement de point d'entrée à une action entre l'utilisateur et le serveur.
+
+## Demo
+
+<Canvas>
+  <Story name="Default">
+    {<Header/>}
+  </Story>
+  <Story name="Header styled">
+   {<HeaderStyled/>}
+  </Story>
+</Canvas>
