@@ -63,6 +63,7 @@ Introduction à l’environnement de production web
 
 - [Programmation d’un processus automatisé de livraison avec Github](Guides%20Technique/ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](Guides%20Technique/docker_compose.md)
+- Utilisation de [Chromatic](https://www.chromatic.com/docs/)
 
 ## Cours 5 / Installation E-Commerce, Base de données, Base de connaissances
 ### 18 janvier 2022
