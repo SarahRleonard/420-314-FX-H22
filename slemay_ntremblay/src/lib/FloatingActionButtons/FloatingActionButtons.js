@@ -6,7 +6,8 @@ import EditIcon from '@mui/icons-material/Edit';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import NavigationIcon from '@mui/icons-material/Navigation';
 
-function FloatingActionButtons() {
+const FloatingActionButtons = () => {
+
   return (
     <Box sx={{'& > :not(style)': {m: 1}}}>
       <Fab color="primary" aria-label="add">
@@ -24,6 +25,6 @@ function FloatingActionButtons() {
       </Fab>
     </Box>
   );
-}
+};
 
 export default FloatingActionButtons;

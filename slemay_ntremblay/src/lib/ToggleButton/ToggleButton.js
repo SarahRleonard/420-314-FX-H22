@@ -5,8 +5,9 @@ import FormatAlignRightIcon from '@mui/icons-material/FormatAlignRight';
 import FormatAlignJustifyIcon from '@mui/icons-material/FormatAlignJustify';
 import ToggleButton from '@mui/material/ToggleButton';
 import ToggleButtonGroup from '@mui/material/ToggleButtonGroup';
+import PropTypes from 'prop-types';
 
-function ToggleButtons() {
+const ToggleButtons = ({size}) => {
   const [alignment, setAlignment] = React.useState('left');
 
   const handleAlignment = (event, newAlignment) => {
@@ -15,6 +16,8 @@ function ToggleButtons() {
 
   return (
     <ToggleButtonGroup
+      size={size}
+      exclusive
       value={alignment}
       exclusive
       onChange={handleAlignment}
@@ -34,5 +37,12 @@ function ToggleButtons() {
     </ToggleButtonGroup>
   );
 }
+
+ToggleButtons.propTypes = {
+  /**
+   * Define initial value for the Counter
+   */
+  size: PropTypes.string.isRequired,
+};
 
 export default ToggleButtons;
