@@ -1,12 +1,14 @@
 import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
-import Bouton from './Bouton';
+import {Bouton, BoutonPrimary} from './Bouton';
 
-<Meta title="Bouton" component={Bouton} />
+
+<Meta title="Example/Bouton" component={Bouton} />
 
 # Example Component Demo
 
 ## Bouton props
 <Props of={Bouton} />
+<Props of={BoutonPrimary} />
 
 ## Description
 
@@ -15,7 +17,10 @@ import Bouton from './Bouton';
 ## Demo
 
 <Canvas>
-  <Story name="Exemple de bouton">
+  <Story name="Default Bouton">
     {(args) => <Bouton {...args} />}
+  </Story>
+   <Story name="Primary Bouton">
+    {(args) => <BoutonPrimary {...args} />}
   </Story>
 </Canvas>
