@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Carousel from './Carousel';
+
+<Meta title="Example/Carousel" component={Carousel} />
+
+# Example Component Demo
+
+## Carousel props
+<Props of={Carousel} />
+
+## Description
+
+`Carousel` component provides user basic interface to select a date.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Carousel">
+    {(args) => <Carousel {...args} />}
+  </Story>
+</Canvas>

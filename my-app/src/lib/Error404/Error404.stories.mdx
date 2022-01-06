@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Error404 from './Error404';
+
+<Meta title="Example/Error404" component={Error404} />
+
+# Example Component Demo
+
+## Error404 props
+<Props of={Error404} />
+
+## Description
+
+`Error404` component provides user basic interface to select a date.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Error404">
+    {(args) => <Error404 {...args} />}
+  </Story>
+</Canvas>
