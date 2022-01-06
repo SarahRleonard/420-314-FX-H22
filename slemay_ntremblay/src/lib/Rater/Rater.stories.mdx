@@ -1,0 +1,23 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Rater from './Rater'
+
+<Meta title="Example/Rater" component={Rater} />
+
+# Example Component Demo
+
+## Rater props
+<Props of={Rater} />
+
+## Description
+
+`Rater` component provides user basic interface for quick rating operation.
+
+## Demo
+<Canvas>
+  <Story name="Rater 1 star">
+    <Rater star="1"/>
+  </Story>
+  <Story name="Rater 3 star">
+    <Rater star="3"/>
+  </Story>
+</Canvas>
