@@ -4,3 +4,11 @@
   margin: 0 auto;
   width: 960px;
 }
+
+.containerLeft {
+  display: flex;
+  justify-content: left;
+  margin-top: 50px;
+  margin-left: 30vh;
+  width: 960px;
+}
