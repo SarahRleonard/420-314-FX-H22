@@ -1,0 +1,24 @@
+import {Props,Story, Canvas } from '@storybook/addon-docs';
+import {Breadcrumbs, BreadcrumbIcons} from './Breadcrumbs';
+
+<Meta title="Example/Breadcrumbs" component={Breadcrumbs} />
+
+# Example Component Demo
+
+## Breadcrumbs props
+<Props of={Breadcrumbs} />
+
+## Description
+
+`Breadcrumbs` sert à choisir entre plusieurs éléments.
+
+## Demo
+
+<Canvas>
+  <Story name="Default Breadcrumbs">
+    {<Breadcrumbs/>}
+  </Story>
+    <Story name="Breadcrumbs Icons">
+    {<BreadcrumbIcons/>}
+  </Story>
+</Canvas>
