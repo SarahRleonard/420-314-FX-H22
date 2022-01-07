@@ -1,0 +1,25 @@
+import {Props,Story, Canvas } from '@storybook/addon-docs';
+import {Liste, ListePoints} from './Liste';
+
+<Meta title="Example/Liste" component={Liste} />
+
+# Example Component Demo
+
+## Liste props
+<Props of={Liste} />
+<Props of={ListePoints} />
+
+## Description
+
+`Liste` sert à ordonner des éléments.
+
+## Demo
+
+<Canvas>
+  <Story name="Default Liste">
+    {<Liste/>}
+  </Story>
+  <Story name = "Liste par points">
+     {<ListePoints/>}
+  </Story>
+</Canvas>
