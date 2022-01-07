@@ -1,0 +1,24 @@
+import {Props,Story, Canvas } from '@storybook/addon-docs';
+import {Spinner, SpinnerColor} from './Spinner';
+
+<Meta title="Example/Spinner" component={Spinner} />
+
+# Example Component Demo
+
+## Spinner props
+<Props of={Spinner} />
+
+## Description
+
+`Spinner` sert principalement de point d'entrée à une action entre l'utilisateur et le serveur.
+
+## Demo
+
+<Canvas>
+  <Story name="Default Spinner">
+    {<Spinner/>}
+  </Story>
+   <Story name="Default Color">
+    {<SpinnerColor/>}
+  </Story>
+</Canvas>
