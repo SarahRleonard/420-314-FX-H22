@@ -1,5 +1,5 @@
 import React from 'react';
-import {Bouton} from 'lib';
+import {Bouton} from 'components';
 import classes from './App.module.css';
 
 const App = () => (
