@@ -3,6 +3,7 @@ import Time from '../../lib/Time/Time';
 import Counter from '../../lib/Counter/Counter';
 import DropDown from '../../lib/DropDown/DropDown';
 import classes from './App.module.css';
+import RandomBgColor from '../../lib/RandomBgColor';
 
 const App = () => (
   <>
@@ -20,6 +21,7 @@ const App = () => (
     <div className={classes.containerLeft}>
       <Time />
     </div>
+    <RandomBgColor />
   </>
 );
 
