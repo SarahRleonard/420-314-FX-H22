@@ -12,6 +12,10 @@
 - **Examen 1** (Théorique (sur papier, cours 1 à 6) - Choix de réponses | **8 février 2022**
 - **Examen 2** (Production d'une vidéo de formation et de support aux utilisateurs) | **4 mars 2022**
 
+## Mise à niveau REACT Exercises pratiques
+
+- [Guide technique](https://github.com/PLDubeFormation/blueprintjs-with-react)
+
 ## Cours 1 / 14 décembre 2021 ## 
 Introduction à l’environnement de production web
 
@@ -59,11 +63,12 @@ Introduction à l’environnement de production web
 - [Comment sécuriser les applications Web contre les vulnérabilités couramment connues en 2021](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Comment%20s%C3%A9curiser%20les%20applications%20Web%20contre%20les%20vuln%C3%A9rabilit%C3%A9s%20couramment%20connues%20en%202021.pdf)
 - [Meilleures pratiques de sécurité des applications Web en 2021](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%204/Meilleures%20pratiques%20de%20s%C3%A9curit%C3%A9%20des%20applications%20Web%20en%202021.pdf)
 
-### Activité pratique d'apprentissage
+### Activité pratique d'apprentissage individuel
 
 - [Programmation d’un processus automatisé de livraison avec Github](Guides%20Technique/ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](Guides%20Technique/docker_compose.md)
-- Utilisation de [Chromatic](https://www.chromatic.com/docs/)
+- [Exercises pratique Chromatic](https://www.chromatic.com/docs/)
+- [Exercises pratique AWS](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
 
 ## Cours 5 / Installation E-Commerce, Base de données, Base de connaissances
 ### 18 janvier 2022
