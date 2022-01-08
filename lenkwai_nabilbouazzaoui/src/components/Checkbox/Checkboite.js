@@ -1,5 +1,6 @@
 import React from 'react';
 import {Checkbox} from 'antd';
+import './check.css';
 
 
 function onChange(e) {console.log(`checked = ${e.target.checked}`);}
