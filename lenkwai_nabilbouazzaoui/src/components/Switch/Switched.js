@@ -1,5 +1,6 @@
 import React from "react";
 import {Switch} from 'antd';
+import './switch.css';
 
 function onChange(checked) {
   console.log(`switch to ${checked}`);
