@@ -5,6 +5,7 @@ import DropDown from '../../lib/DropDown/DropDown';
 import classes from './App.module.css';
 import RandomBgColor from '../../lib/RandomBgColor';
 import Dice from '../../lib/Dice';
+import Convert from '../../lib/Convert';
 
 const App = () => (
   <>
@@ -29,6 +30,9 @@ const App = () => (
     <RandomBgColor />
     <div className={classes.container}>
       <Dice />
+    </div>
+    <div className={classes.container}>
+      <Convert />
     </div>
   </>
 );
