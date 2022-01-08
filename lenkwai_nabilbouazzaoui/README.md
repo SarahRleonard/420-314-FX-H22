@@ -12,7 +12,7 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NabilBouazzaoui/librairy_npm.git"
+    "url": "https://github.com/NabilBouazzaoui/librairy_npm.git"
   },
   "author": "Nabil_Emeline",
   "license": "ISC",
