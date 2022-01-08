@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Dice from './Dice';
+
+<Meta title="Example/Dice" component={Dice} />
+
+# Example Component Demo
+
+## Dice props
+<Props of={Dice} />
+
+## Description
+
+`Dice` component provides user basic drop down menu.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Dice">
+    {(args) => <Dice {...args} />}
+  </Story>
+</Canvas>
