@@ -1,6 +1,7 @@
 import React from "react";
 import {Breadcrumb} from 'antd';
 import {HomeOutlined, QqOutlined} from '@ant-design/icons';
+import './bread.css';
 
 export function Breadcrumbs(...props){
     return(
