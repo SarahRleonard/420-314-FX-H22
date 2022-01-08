@@ -16,7 +16,7 @@ const button = () => (
 
 button.propTypes = {
   /**
-   * Define initial value for the Datepicker picker (week,month.quarter,year)
+   * Here you can use propTypes to define properties and modify them
    */
 };
 
