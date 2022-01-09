@@ -1,6 +1,8 @@
 {
   "name": "slemay_ntremblay",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "TP1 components for stories",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
