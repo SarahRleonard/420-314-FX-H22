@@ -8,7 +8,7 @@ const TimeSelect = ({size}) => (
 );
 
 TimeSelect.propTypes = {
-  size: PropTypes.string,
+  size: PropTypes.oneOf(['large', '', 'small']),
 };
 
 TimeSelect.defaultProps = {
