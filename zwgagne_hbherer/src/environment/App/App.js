@@ -6,6 +6,7 @@ import classes from './App.module.css';
 import RandomBgColor from '../../lib/RandomBgColor';
 import Dice from '../../lib/Dice';
 import Convert from '../../lib/Convert';
+import SquareRange from '../../lib/SquareRange';
 
 const App = () => (
   <>
@@ -33,6 +34,9 @@ const App = () => (
     </div>
     <div className={classes.container}>
       <Convert />
+    </div>
+    <div className={classes.container}>
+      <SquareRange />
     </div>
   </>
 );

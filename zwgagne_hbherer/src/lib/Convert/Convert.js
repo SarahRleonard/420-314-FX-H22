@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import Input from '@mui/material/Input';
 import InputLabel from '@mui/material/InputLabel';
 import Button from '@mui/material/Button';
+import classes from './Convert.module.css';
 
 const Convert = () => {
     const [feet, setFeet] = useState()
@@ -24,14 +25,14 @@ const Convert = () => {
 
     return (
         <>
-            <form>
+            <form className={classes.form}>
                 <div>
                     <InputLabel>Pied</InputLabel>
-                    <Input id="Feet" name="feet" type="number" value={feet} onChange={ConvertionLengthFeet} />
+                    <Input placeholder="Valeur en pied" id="Feet" name="feet" type="number" value={feet} onChange={ConvertionLengthFeet} />
                 </div>
                 <div>
                     <InputLabel>Mètre</InputLabel>
-                    <Input id="Meter" name="meter" type="number" value={meter} onChange={ConvertionLengthMeter} />
+                    <Input placeholder="valeur en Mètre" id="Meter" name="meter" type="number" value={meter} onChange={ConvertionLengthMeter} />
                 </div>
                     <Button onClick={reset} type="reset">Reset</Button>
             </form>
