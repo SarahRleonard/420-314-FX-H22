@@ -10,7 +10,7 @@ const Buttons = ({size, type}) => (
 
 Buttons.propTypes = {
   size: PropTypes.oneOf(['primary', 'default', 'dashed', 'text', 'link']).isRequired,
-  type: PropTypes.oneOf(['large', 'default', 'small']).isRequired,
+  type: PropTypes.oneOf(['large', 'default', 'small']),
 };
 
 export default Buttons;
