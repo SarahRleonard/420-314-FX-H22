@@ -13,8 +13,4 @@ Buttons.propTypes = {
   type: PropTypes.oneOf(['large', 'default', 'small']).isRequired,
 };
 
-Buttons.defaultProps = {
-  type: 'default',
-};
-
 export default Buttons;
