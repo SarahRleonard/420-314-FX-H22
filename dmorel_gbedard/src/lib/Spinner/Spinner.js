@@ -3,12 +3,10 @@ import PropTypes from 'prop-types';
 import {Spin} from 'antd';
 import classes from './Spinner.module.css';
 
-const spinner = () => <Spin/>;
+const spinner = ({size}) => <Spin size={size} />;
 
 spinner.propTypes = {
-  /**
-   * Define initial value for the Pagination page
-   */
+  size: PropTypes.oneOf(['large', 'default', 'small']),
 };
 
 export default spinner;

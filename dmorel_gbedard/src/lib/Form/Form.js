@@ -14,7 +14,7 @@ import {
 } from 'antd';
 import classes from './Form.module.css';
 
-const FormSizeDemo = () => {
+const FormSizeDemo = ({type}) => {
   const [componentSize, setComponentSize] = useState('default');
 
   const onFormLayoutChange = ({size}) => {
@@ -92,15 +92,14 @@ const FormSizeDemo = () => {
         <Switch />
       </Form.Item>
       <Form.Item label="Button">
-        <Button>Button</Button>
+        <Button type={type}>Button</Button>
       </Form.Item>
     </Form>
   );
 };
 FormSizeDemo.propTypes = {
-  /**
-   * Define initial value for the Datepicker picker (week,month.quarter,year)
-   */
+  type: PropTypes.oneOf(['primary', 'default', 'dashed', 'text', 'link'])
+    .isRequired,
 };
 
 export default FormSizeDemo;

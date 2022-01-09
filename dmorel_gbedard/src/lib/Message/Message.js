@@ -15,18 +15,26 @@ const warning = () => {
   message.warning('This is a warning message');
 };
 
-const Message = () => (
+const Message = ({top}) => (
   <Space>
-    <Button onClick={success}>Success</Button>
-    <Button onClick={error}>Error</Button>
-    <Button onClick={warning}>Warning</Button>
+    <Button onClick={success} top={top}>
+      Success
+    </Button>
+    <Button onClick={error} top={top}>
+      Error
+    </Button>
+    <Button onClick={warning} top={top}>
+      Warning
+    </Button>
   </Space>
 );
 
 Message.propTypes = {
-  /**
-   * Define initial value for the Datepicker picker (week,month.quarter,year)
-   */
+  top: PropTypes.number,
+};
+
+Message.defaultProps = {
+  top: 8,
 };
 
 export default Message;

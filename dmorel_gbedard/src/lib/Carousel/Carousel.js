@@ -15,8 +15,8 @@ const contentStyle = {
   background: '#364d79',
 };
 
-const carousel = () => (
-  <Carousel afterChange={onChange}>
+const carousel = ({autoplay}) => (
+  <Carousel afterChange={onChange} autoplay={autoplay}>
     <div>
       <h3 style={contentStyle}>1</h3>
     </div>
@@ -33,10 +33,7 @@ const carousel = () => (
 );
 
 carousel.propTypes = {
-  /**
-   * Here you can use propTypes to define properties and modify them
-   */
-  picker: PropTypes.string.isRequired,
+  autoplay: PropTypes.bool,
 };
 
 export default carousel;

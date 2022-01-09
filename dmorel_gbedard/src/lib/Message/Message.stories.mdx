@@ -15,7 +15,10 @@ import Message from './Message';
 ## Demo
 
 <Canvas>
-  <Story name="Example Message">
-    {(args) => <Message {...args} />}
+  <Story name="Message-Duree-normale">
+    <Message />
+  </Story>
+    <Story name="Message-Duree-longue">
+    <Message top={top*3}/>
   </Story>
 </Canvas>

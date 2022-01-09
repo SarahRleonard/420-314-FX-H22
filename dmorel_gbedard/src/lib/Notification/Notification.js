@@ -14,16 +14,15 @@ const openNotification = () => {
   });
 };
 
-const Notification = () => (
-  <Button type="primary" onClick={openNotification}>
+const Notification = ({type}) => (
+  <Button type={type} onClick={openNotification}>
     Open the notification box
   </Button>
 );
 
 Notification.propTypes = {
-  /**
-   * Define initial value for the Datepicker picker (week,month.quarter,year)
-   */
+  type: PropTypes.oneOf(['primary', 'default', 'dashed', 'text', 'link'])
+    .isRequired,
 };
 
 export default Notification;

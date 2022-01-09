@@ -15,7 +15,10 @@ import Error404 from './Error404';
 ## Demo
 
 <Canvas>
-  <Story name="Example Error404">
-    {(args) => <Error404 {...args} />}
+    <Story name="Erreur-404">
+    <Error404 status="404" title="404" subTitle="Sorry, the page you visited does not exist."/>
+  </Story>
+  <Story name="Erreur-500">
+    <Error404 status="500" title="500" subTitle="Sorry, something went wrong."/>
   </Story>
 </Canvas>

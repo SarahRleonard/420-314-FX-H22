@@ -3,21 +3,16 @@ import PropTypes from 'prop-types';
 import {Button} from 'antd';
 import classes from './Button.module.css';
 
-const button = () => (
-  <>
-    <Button type="primary">Primary Button</Button>
-    <Button>Default Button</Button>
-    <Button type="dashed">Dashed Button</Button>
-    <br />
-    <Button type="text">Text Button</Button>
-    <Button type="link">Link Button</Button>
-  </>
+const button = ({size, type}) => (
+  <Button type={type} size={size}>
+    Soumettre
+  </Button>
 );
 
 button.propTypes = {
-  /**
-   * Here you can use propTypes to define properties and modify them
-   */
+  type: PropTypes.oneOf(['primary', 'default', 'dashed', 'text', 'link'])
+    .isRequired,
+  size: PropTypes.oneOf(['large', 'default', 'small']),
 };
 
 export default button;
