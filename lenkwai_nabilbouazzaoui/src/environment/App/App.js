@@ -1,10 +1,10 @@
 import React from 'react';
-import {Bouton} from 'components';
-import classes from './App.module.css';
+import {Switch} from '../../lib/Switch';
+
 
 const App = () => (
-  <div className={classes.container}>
-    <Bouton />
+  <div>
+    <Switch />
   </div>
 );
 
