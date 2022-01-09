@@ -24,7 +24,7 @@ const Pop = ({placement, title, trigger}) => {
 };
 
 Pop.propTypes = {
-  placement: PropTypes.string.isRequired,
+  placement: PropTypes.oneOf(['topLeft', 'top', 'topRight', 'leftTop', 'left', 'leftBottom', 'rightTop', 'right', 'rightBottom', 'bottomLeft', 'bottom', "bottomRight"]).isRequired,
   title: PropTypes.string.isRequired,
   trigger: PropTypes.oneOf(['click', 'hover', 'focus']).isRequired,
 };
