@@ -1,6 +1,7 @@
 # Marvellous reactonents
 
 Simply marvellous react components built with react, mui and antd.
+https://www.npmjs.com/package/marvellous-reactonents
 
 ## Usage
 

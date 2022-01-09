@@ -1,6 +1,6 @@
 {
   "name": "marvellous-reactonents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "dependencies": {
     "@emotion/react": "^11.7.1",
