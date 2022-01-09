@@ -1,0 +1,17 @@
+.mainContainer{
+    margin-top: 25px;
+    width: 400px;
+}
+
+.ContainerToDo{
+    margin-top: 15px;
+    background-color: palegoldenrod;
+    padding: 15px 18px;
+    border-radius: 8px;
+}
+.ContainerToDo > h3{
+    margin: 5px;
+}
+.btn{
+    margin-bottom: 12px;
+}

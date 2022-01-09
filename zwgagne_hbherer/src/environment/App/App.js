@@ -7,6 +7,7 @@ import RandomBgColor from '../../lib/RandomBgColor';
 import Dice from '../../lib/Dice';
 import Convert from '../../lib/Convert';
 import SquareRange from '../../lib/SquareRange';
+import ToDoList from '../../lib/ToDoList/ToDoList';
 
 const App = () => (
   <>
@@ -37,6 +38,9 @@ const App = () => (
     </div>
     <div className={classes.container}>
       <SquareRange />
+    </div>
+    <div className={classes.containerLeft}>
+      <ToDoList />
     </div>
   </>
 );

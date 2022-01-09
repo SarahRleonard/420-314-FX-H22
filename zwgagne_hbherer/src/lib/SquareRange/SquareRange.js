@@ -3,8 +3,8 @@ import InputLabel from '@mui/material/InputLabel';
 import classes from './SquareRange.module.css';
 
 const SquareRange = () => {
-    const [axis, setAxis] = useState(10)
-    const [ordinate, setOrdinate] = useState(10)
+    const [axis, setAxis] = useState(1)
+    const [ordinate, setOrdinate] = useState(1)
 
     const X = () => {
         const x = document.getElementById("X").value

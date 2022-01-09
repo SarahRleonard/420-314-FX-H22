@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Item from './Item';
+
+<Meta title="Example/Item" component={Item} />
+
+# Example Component Demo
+
+## Item props
+<Props of={Item} />
+
+## Description
+
+`Item` component provides user basic drop down menu.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Item">
+    {(args) => <Item {...args} />}
+  </Story>
+</Canvas>
