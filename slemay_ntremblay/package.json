@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": false,
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.18.2",
+    "moment": "^2.29.1",
     "prop-types": "^15.8.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
@@ -91,6 +94,7 @@
     "rollup-plugin-postcss": "^3.1.8",
     "rollup-plugin-stylelint": "^1.0.0",
     "rollup-plugin-terser": "^7.0.2",
+    "storybook-addon-customize-antd-theme": "^1.1.0",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-order": "^4.1.0"

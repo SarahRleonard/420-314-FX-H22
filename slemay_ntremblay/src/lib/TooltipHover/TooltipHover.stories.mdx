@@ -1,0 +1,23 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import TooltipHover from './TooltipHover'
+
+<Meta title="Example/TooltipHover" component={TooltipHover} />
+
+# Example Component Demo
+
+## TooltipHover props
+<Props of={TooltipHover} />
+
+## Description
+
+`TooltipHover` component provides user basic interface to trigger actions.
+
+## Demo
+<Canvas>
+  <Story name="Bottom tooltip" title="Prompt text" text="The tooltip will pop on mouse hover">
+    <TooltipHover placement="bottom />
+  </Story>
+  <Story name="Top tooltip">
+    <TooltipHover placement="top" title="Prompt text" text="The tooltip will pop on mouse hover"/>
+  </Story>
+</Canvas>

@@ -1,0 +1,23 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Switcher from './Switcher'
+
+<Meta title="Example/Switcher" component={Switcher} />
+
+# Example Component Demo
+
+## Switcher props
+<Props of={Switcher} />
+
+## Description
+
+`Switcher` component represent the switching between two states or on-off state.
+
+## Demo
+<Canvas>
+  <Story name="Switcher small">
+    <Switcher size="small"/>
+  </Story>
+  <Story name="Switcher normal">
+    <Switcher size=""/>
+  </Story>
+</Canvas>
