@@ -36,4 +36,4 @@ npm install librairy_npm@1.0.1
 
 ## Contributors
 
-@NabilBouazzaoui, @Emeline
+@NabilBouazzaoui, @EmelineLeclere
