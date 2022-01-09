@@ -9,7 +9,7 @@ const TooltipHover = ({placement, title, text}) => (
 );
 
 TooltipHover.propTypes = {
-  placement: PropTypes.string.isRequired,
+  placement: PropTypes.oneOf(['topLeft', 'top', 'topRight', 'rightTop', 'right', 'rightBottom', 'bottomRight', 'bottom', 'bottomLeft', 'leftBottom', 'left', 'leftTop']).isRequired,
   title: PropTypes.string.isRequired,
   text: PropTypes.string.isRequired,
 };

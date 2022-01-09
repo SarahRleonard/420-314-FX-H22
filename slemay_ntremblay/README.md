@@ -8,7 +8,7 @@ Entrer le texte pour la case à cocher dans la props "text".
 
 ### Tooltip
 Définir le placement de l'info-bulle dans la props "placement" :
-    - topLeft, top. topRight, rightTop, right, rightBottom, bottomRight, bottom, bottomLeft, leftBottom, left, leftTop.
+    - topLeft, top, topRight, rightTop, right, rightBottom, bottomRight, bottom, bottomLeft, leftBottom, left, leftTop.
 
 ### TimeSelect
 Définir la grosseur de la selection avec la props "size" : small, large.

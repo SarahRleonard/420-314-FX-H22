@@ -7,12 +7,12 @@ const TimeSelect = ({size, placeholder}) => (
 );
 
 TimeSelect.propTypes = {
-  size: PropTypes.string,
+  size: PropTypes.oneOf(['large', '', 'small']),
   placeholder: PropTypes.string.isRequired,
 };
 
 TimeSelect.defaultProps = {
-  size: 'middle',
+  size: '',
 };
 
 export default TimeSelect;

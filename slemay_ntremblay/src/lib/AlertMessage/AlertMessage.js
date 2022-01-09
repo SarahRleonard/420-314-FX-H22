@@ -8,7 +8,7 @@ const AlertMessage = ({message, type}) => (
 
 AlertMessage.propTypes = {
   message: PropTypes.string.isRequired,
-  type: PropTypes.string,
+  type: PropTypes.oneOf(['success', 'info', 'error', 'warning']),
 };
 
 AlertMessage.defaultProps = {
