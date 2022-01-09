@@ -1,0 +1,28 @@
+.DropSection {
+    position: absolute;
+    top: inherit;
+    width: 160px;
+    transform: translateY(-16px);
+    background-color: #1976d2;
+    border: solid 1px #000000;
+    border-radius: 8px;
+    padding: 10px;
+    overflow: hidden;
+    list-style: none;
+}
+.LinkA{
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 18px;
+}
+.LinkA:hover{
+    color: #313131;
+}
+.Li{
+    padding: 1rem;
+    border-radius: 8px;
+}
+.Li:hover{
+    background-color: #4089d1;
+}
