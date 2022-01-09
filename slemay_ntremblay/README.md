@@ -1,4 +1,4 @@
-## Lien vers de la librairie npm
+## Lien vers de la librairie NPM
 https://www.npmjs.com/package/slemay_ntremblay
 
 ## Lien vers URL
