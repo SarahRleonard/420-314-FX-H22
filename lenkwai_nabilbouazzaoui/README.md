@@ -1,6 +1,6 @@
 # Storybook :
 
-  URL : storybook.nboua.devwebgarneau.com
+  URL : storybook.eleclere.devwebgarneau.com
 
 # NPM library pour l'utilisation à d'autre projets
 
