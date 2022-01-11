@@ -5,7 +5,7 @@
 ## Ce workflow créé sur [GitHub Actions](https://github.com/features/actions) sera chargé de tester automatiquement le code source, de générer un rapport de couverture de test et de le télécharger sur [Codecov](https://codecov.io/), de construire et de déployer le projet sur [GitHub Pages](https://pages.github.com/). 
 
 
-		Tous ces jobs sont activés par un événement push ou pull request sur la branche master.
+		Toutes ces jobs sont activés par un événement push ou pull request sur la branche master.
 
 # Commencer
 
