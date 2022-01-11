@@ -6,6 +6,8 @@
 [![npm](https://img.shields.io/npm/dm/cra-template-npm-library)](https://www.npmjs.com/package/cra-template-npm-library)
 
 
+# Components Storybook
+
 ### Bouton
 
 Grousseur du bouton : Utiliser la props "size" : 'large', 'default', 'small'
@@ -54,6 +56,15 @@ Grosseur du Spinner : Utiliser la props "size" : 'large', 'default', 'small'
 ### TreeSelect
 
 Focus sur la sélection : Utiliser la props "focus" : 'true', 'false'
+
+# Lien librairie NPM
+
+https://www.npmjs.com/package/dmorel-components-library
+
+# Lien CPANEL
+
+https://storybook.dmorel.devwebgarneau.com/
+
 
 # NPM library Create React App template
 
