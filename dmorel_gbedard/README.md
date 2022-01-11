@@ -5,6 +5,56 @@
 [![npm version](https://badge.fury.io/js/cra-template-npm-library.svg)](https://www.npmjs.com/package/cra-template-npm-library)
 [![npm](https://img.shields.io/npm/dm/cra-template-npm-library)](https://www.npmjs.com/package/cra-template-npm-library)
 
+
+### Bouton
+
+Grousseur du bouton : Utiliser la props "size" : 'large', 'default', 'small'
+
+Type de bouton : Utiliser la props "type" : 'primary', 'default', 'dashed', 'text', 'link'
+
+### Card
+
+Grousseur de la carte : Utiliser la props "size" : 'default', 'small'
+
+### Carousel
+
+Autoplay sur les images : Utiliser la props "autoplay" : 'true', 'false'
+
+### Error404
+
+Statut de la page : Utiliser la props "status" : '404', '500' (celle-ci est requise et va définir les images et icônes dans page)
+
+Titre de la page : Utiliser la props "title" : '404', '500'
+
+Sous-titre de la page : Utiliser la props "subTitle" : 'Sorry, the page you visited does not exist.',
+    'Sorry, something went wrong.'
+    
+### Formulaire
+
+Grosseur du bouton du formulaire : Utiliser la props "size" : 'large', 'default', 'small'
+
+Type de bouton du formulaire: Utiliser la props "type" : 'primary', 'default', 'dashed', 'text', 'link'
+
+### Message
+
+Placement du popup : Utiliser la props "top" : 'top', 'top*3'
+
+### Notification
+
+Type de bouton de la boite de notification: Utiliser la props "type" : 'primary', 'default', 'dashed', 'text', 'link'
+
+### Pagination
+
+Version de pagination: Utiliser la props "simple" : '0', '1'
+
+### Spinner
+
+Grosseur du Spinner : Utiliser la props "size" : 'large', 'default', 'small'
+
+### TreeSelect
+
+Focus sur la sélection : Utiliser la props "focus" : 'true', 'false'
+
 # NPM library Create React App template
 
 [Create React App](https://github.com/facebook/create-react-app) (CRA) template to build and publish NPM libraries with **rollup**, **eslint** and **stylelint** configurations. See [full documentation](https://cra-template-npm-library.netlify.com/).
