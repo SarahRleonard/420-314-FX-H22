@@ -1,44 +1,27 @@
-[![Build Status](https://travis-ci.com/morewings/cra-template-npm-library.svg?branch=master)](https://travis-ci.com/morewings/cra-template-npm-library)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=morewings/cra-template-npm-library)](https://dependabot.com)
-[![dependencies Status](https://david-dm.org/morewings/cra-template-npm-library/status.svg)](https://david-dm.org/morewings/cra-template-npm-library)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7448a6f6-8be5-4d26-b886-f59db21ebb4e/deploy-status)](https://app.netlify.com/sites/cra-template-npm-library/deploys)
-[![npm version](https://badge.fury.io/js/cra-template-npm-library.svg)](https://www.npmjs.com/package/cra-template-npm-library)
-[![npm](https://img.shields.io/npm/dm/cra-template-npm-library)](https://www.npmjs.com/package/cra-template-npm-library)
+Storybook
 
-# NPM library Create React App template
+Lien vers l'URL
+http://www.tp1storybook.alacerte.devwebgarneau.com/storybook-static/
 
-[Create React App](https://github.com/facebook/create-react-app) (CRA) template to build and publish NPM libraries with **rollup**, **eslint** and **stylelint** configurations. See [full documentation](https://cra-template-npm-library.netlify.com/).
 
-## Usage
+Différents components
 
-```shell script
-npx create-react-app %PROJECT_NAME% --template npm-library
-``` 
-Or
-```shell script
-yarn create react-app %PROJECT_NAME% --template npm-library
-```
+Alert: remplacer la string "Success Text" par le message souhaité
 
-Then
+Calendrier: deux deffiérentes versions de clandrier selon les besoins
 
-```shell script
-cd %PROJECT_NAME%
-yarn start
-```
+Cards: remplacer la source de l'image -src- par une image locale ou distante (url)
 
-## Features
+Drawer: remplacer la string "Drawer Title" par le titre souhaité
 
-- Handles all modern JS features.
-- Bundles `commonjs` and `es` module formats.
-- [Husky](https://github.com/typicode/husky) for git hooks.
-- [Eslint](https://eslint.org/) and [stylelint](https://stylelint.io/).
-- [Rollup](https://rollupjs.org/guide/en/) for bundling.
-- [Babel](https://babeljs.io/) for transpiling.
-- [Jest](https://jestjs.io/) and [react-testing-library](https://testing-library.com/docs/react-testing-library/intro) for testing.
-- Supports CSS modules, SASS/SCSS, Less and PostCSS.
-- [Storybook](https://storybook.js.org/) for documentation and demo.
-- And [much more](https://cra-template-npm-library.netlify.com/).
+Formulaires: remplacer les attributs "name" et "label" par les valeurs souhaitées
 
-## Contributors
+Image preview: remplacer la source de l'image -src- par une image locale ou distante (url)
 
-@morewings, @sky0matic
+Message box: remplacer les strings 'This is a success message' et 'This is a error message' par les valeurs souhaitées
+
+Pagination: remplacer les valeurs du total par les valeurs souhaitées
+
+Progress bar: remplacer la valeur de la barre par la valeur souhaitée
+
+Warning screen: remplacer les "title" et subtitle par les valeurs souhaitées

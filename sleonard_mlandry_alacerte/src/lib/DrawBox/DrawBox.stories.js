@@ -78,9 +78,9 @@ export const DrawBox = () => {
           </Space>
         }
       >
-        <p>Some contents...</p>
-        <p>Some contents...</p>
-        <p>Some contents...</p>
+        <p>Votre contenu...</p>
+        <p>Votre contenu...</p>
+        <p>Votre contenu...</p>
       </Drawer>
     </>
   );
