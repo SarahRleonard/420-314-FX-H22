@@ -1,12 +1,17 @@
 {
+  "resolutions": {
+    "@storybook/csf-tools": "6.4.0-beta.20"
+  },
   "name": "sleonard_mlandry_alacerte",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@storybook/addon-docs": "^6.4.9",
     "antd": "^4.18.2",
     "prop-types": "^15.8.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
