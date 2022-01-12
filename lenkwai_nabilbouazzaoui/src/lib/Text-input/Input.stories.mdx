@@ -1,0 +1,24 @@
+import {Props,Story, Canvas } from '@storybook/addon-docs';
+import {Input, InputPlaceholder} from './Input';
+
+<Meta title="Example/Text-Input" component={Input} />
+
+# Example Component Demo
+
+## Input props
+<Props of={Input} />
+
+## Description
+
+`Text-Input` sert principalement de point d'entrée à du text ou des données de l'utilisateur.
+
+## Demo
+
+<Canvas>
+  <Story name="Default Input">
+    {<Input/>}
+  </Story>
+   <Story name="Placeholder Input">
+    {<InputPlaceholder/>}
+  </Story>
+</Canvas>

@@ -1,0 +1,24 @@
+import {Props,Story, Canvas } from '@storybook/addon-docs';
+import {Header, HeaderStyled} from './Header';
+
+<Meta title="Example/Header" component={Header} />
+
+# Example Component Demo
+
+## Bouton props
+<Props of={Header} />
+
+## Description
+
+`Header` sert à afficher un titre principale.
+
+## Demo
+
+<Canvas>
+  <Story name="Default">
+    {<Header/>}
+  </Story>
+  <Story name="Header styled">
+   {<HeaderStyled/>}
+  </Story>
+</Canvas>
