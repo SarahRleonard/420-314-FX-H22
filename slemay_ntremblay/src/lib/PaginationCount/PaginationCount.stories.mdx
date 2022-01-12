@@ -1,0 +1,23 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import PaginationCount from './PaginationCount'
+
+<Meta title="Example/PaginationCount" component={PaginationCount} />
+
+# Example Component Demo
+
+## PaginationCount props
+<Props of={PaginationCount} />
+
+## Description
+
+A long list can be divided into several pages using `PaginationCount`, and only one page will be loaded at a time.
+
+## Demo
+<Canvas>
+  <Story name="Pagination-1000 default-20">
+    <PaginationCount total={1000} defaultCurrent={20}/>
+  </Story>
+  <Story name="Pagination-100 default-6">
+    <PaginationCount total={100} defaultCurrent={6}/>
+  </Story>
+</Canvas>

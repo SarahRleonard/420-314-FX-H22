@@ -1,0 +1,23 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import CheckboxUi from './CheckboxUi'
+
+<Meta title="Example/Checkbox" component={CheckboxUi} />
+
+# Example Component Demo
+
+## CheckboxUi props
+<Props of={CheckboxUi} />
+
+## Description
+
+`CheckboxUi` component provides user basic interface to trigger actions.
+
+## Demo
+<Canvas>
+  <Story name="Text 1">
+    <CheckboxUi text="Je check la box" textColor="styles.text_red" />
+  </Story>
+  <Story name="Text 2">
+    <CheckboxUi text="Une autre box a check" textColor="styles.text_blue" />
+  </Story>
+</Canvas>
