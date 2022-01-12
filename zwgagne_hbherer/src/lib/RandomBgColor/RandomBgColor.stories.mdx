@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import RandomBgColor from './RandomBgColor';
+
+<Meta title="Example/RandomBgColor" component={RandomBgColor} />
+
+# Example Component Demo
+
+## RandomBgColor props
+<Props of={RandomBgColor} />
+
+## Description
+
+`RandomBgColor` component provides a random color generator.
+
+## Demo
+
+<Canvas>
+  <Story name="Example RandomBgColor">
+    {(args) => <RandomBgColor {...args} />}
+  </Story>
+</Canvas>

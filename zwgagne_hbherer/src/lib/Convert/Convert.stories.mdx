@@ -1,0 +1,21 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Convert from './Convert';
+
+<Meta title="Example/Convert" component={Convert} />
+
+# Example Component Demo
+
+## Convert props
+<Props of={Convert} />
+
+## Demo
+
+<Canvas>
+  <Story name="Example Convert">
+    {(args) => <Convert {...args} />}
+  </Story>
+</Canvas>
+
+## Description
+
+`Convert` component provides a feet to meter converter.
