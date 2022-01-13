@@ -18,10 +18,10 @@ Formulaires: remplacer les attributs "name" et "label" par les valeurs souhaité
 
 Image preview: remplacer la source de l'image -src- par une image locale ou distante (url)
 
-Message box: remplacer les strings 'This is a success message' et 'This is a error message' par les valeurs souhaitées
+Message box: remplacer
 
-Pagination: remplacer les valeurs du total par les valeurs souhaitées
+Pagination
 
-Progress bar: remplacer la valeur de la barre par la valeur souhaitée
+Progress bar
 
-Warning screen: remplacer les "title" et subtitle par les valeurs souhaitées
+Warning screen
