@@ -1,0 +1,38 @@
+{
+    "name": "storybook_tp1_julbern",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "storybook": "start-storybook -p 6006",
+        "build-storybook": "build-storybook",
+        "chromatic": "npx chromatic --project-token=d5019d41b454",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/julbern/storybook_tp1_julbern.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/julbern/storybook_tp1_julbern/issues"
+    },
+    "homepage": "https://github.com/julbern/storybook_tp1_julbern#readme",
+    "dependencies": {
+        "@storybook/addons": "^6.4.9",
+        "@storybook/design-system": "^7.2.0",
+        "@storybook/theming": "^6.4.9"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.16.7",
+        "@storybook/addon-actions": "^6.4.9",
+        "@storybook/addon-essentials": "^6.4.9",
+        "@storybook/addon-links": "^6.4.9",
+        "@storybook/react": "^6.4.9",
+        "babel-loader": "^8.2.3",
+        "chromatic": "^6.3.4"
+    }
+}
