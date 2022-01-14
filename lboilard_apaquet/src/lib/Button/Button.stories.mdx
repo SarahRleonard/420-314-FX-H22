@@ -1,0 +1,28 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Button from './Button';
+
+<Meta title="Example/Button" component={Button} />
+
+# Example Component Demo
+
+## Button props
+<Props of={Button} />
+
+## Description
+
+`Button` allow users to take actions, and make choices, with a single tap.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Button1">
+      <Button size="small" className="bouton-default">
+          Bouton
+      </Button>
+  </Story>
+  <Story name="Example Button2">
+      <Button size="large" className="bouton-default">
+          Bouton
+      </Button>
+  </Story>
+</Canvas>

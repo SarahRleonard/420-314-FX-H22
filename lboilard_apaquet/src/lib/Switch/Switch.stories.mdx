@@ -1,0 +1,26 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Switch from './Switch';
+
+<Meta title="Example/Switch" component={Switch} />
+
+# Example Component Demo
+
+## Switch props
+<Props of={Switch} />
+
+## Description
+
+`Switch` toggle the state of a single setting on or off.
+
+
+
+## Demo
+
+<Canvas>
+  <Story name="Example Switch">
+    <Switch size="small" defaultChecked />
+  </Story>
+  <Story name="Example Switch2">
+    <Switch size="large" defaultChecked />
+  </Story>
+</Canvas>

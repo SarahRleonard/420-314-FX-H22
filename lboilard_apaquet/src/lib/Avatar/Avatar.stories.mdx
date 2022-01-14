@@ -1,0 +1,24 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import Avatar from './Avatar';
+
+<Meta title="Example/Avatar" component={Avatar} />
+
+# Example Component Demo
+
+## Avatar props
+<Props of={Avatar} />
+
+## Description
+
+`Avatar` can be used to represent people or objects. It supports images, Icons, or letters.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Avatar1">
+      <Avatar shape="square" size="small" icon={<UserOutlined />} />
+  </Story>
+  <Story name="Example Avatar2">
+      <Avatar shape="circle" size="large" icon={<UserOutlined />} />
+  </Story>
+</Canvas>
