@@ -16,7 +16,7 @@ const suffix = (
   />
 );
 
-const Searchbar = initialValue => {
+const Searchbar = ({initialValue}) => {
   <Space direction="vertical">
     <Search
       placeholder="input search text"
@@ -24,7 +24,7 @@ const Searchbar = initialValue => {
       suffix={suffix}
       enterButton
       value={initialValue}
-    />
+    />{' '}
   </Space>;
 };
 

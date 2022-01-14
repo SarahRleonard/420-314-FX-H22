@@ -42,7 +42,7 @@ Menuderoulant.propTypes = {
   /**
    * Define initial values for the Dropdown menu
    */
-  dropdown: PropTypes.string.isRequired,
+  Menuderoulant: PropTypes.string.isRequired,
 };
 
 export default Menuderoulant;
