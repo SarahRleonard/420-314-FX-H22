@@ -1,0 +1,23 @@
+import { Meta, Props, Canvas, Story } from '@storybook/addon-docs';
+import InputForm from './InputForm'
+
+<Meta title="Example/InputForm" component={InputForm} />
+
+# Example Component Demo
+
+## InputForm props
+<Props of={InputForm} />
+
+## Description
+
+`InputForm` component provides user basic interface to trigger actions.
+
+## Demo
+<Canvas>
+  <Story name="Size small">
+    <InputForm size="small" placeholder="email" />
+  </Story>
+  <Story name="Size large">
+    <InputForm size="large" placeholder="name" />
+  </Story>
+</Canvas>
