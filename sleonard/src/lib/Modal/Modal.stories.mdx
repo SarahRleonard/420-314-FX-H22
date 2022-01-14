@@ -1,0 +1,20 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import ModalSarah from './Modal';
+
+<Meta title="Example/ModalSarah" component={ModalSarah} />
+
+# Example Component Demo
+
+## ModalSarah props
+
+<Props of={ModalSarah} />
+
+## Description
+
+`ModalSarah` component provides user a pop up window for a confirmation with options to accept or cancel.
+
+## Demo
+
+<Canvas>
+  <Story name="Example ModalSarah">{args => <ModalSarah {...args} />}</Story>
+</Canvas>

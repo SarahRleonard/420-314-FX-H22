@@ -1,0 +1,20 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import Breadcrump from './Breadcrump';
+
+<Meta title="Example/Breadcrump" component={Breadcrump} />
+
+# Example Component Demo
+
+## Breadcrump props
+
+<Props of={Breadcrump} />
+
+## Description
+
+`Breadcrump` component provides user basic interface to see where you are located on the website.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Breadcrump">{args => <Breadcrump {...args} />}</Story>
+</Canvas>

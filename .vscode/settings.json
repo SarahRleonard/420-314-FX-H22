@@ -1,0 +1,4 @@
+{
+  "python.linting.lintOnSave": false,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+}

@@ -1,0 +1,20 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import Timeline from './Timeline';
+
+<Meta title="Example/Timeline" component={Timeline} />
+
+# Example Component Demo
+
+## Timeline props
+
+<Props of={Timeline} />
+
+## Description
+
+`Timeline` component provides user basic side drawer to show different items without having to change page.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Timeline">{args => <Timeline {...args} />}</Story>
+</Canvas>

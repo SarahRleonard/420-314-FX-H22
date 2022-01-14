@@ -1,0 +1,20 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import Dropdown from './Dropdown';
+
+<Meta title="Example/Dropdown" component={Dropdown} />
+
+# Example Component Demo
+
+## Dropdown props
+
+<Props of={Dropdown} />
+
+## Description
+
+`Dropdown` component provides user basic interface to have a button with multiple selection.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Dropdown">{args => <Dropdown {...args} />}</Story>
+</Canvas>

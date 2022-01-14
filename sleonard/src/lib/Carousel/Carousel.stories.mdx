@@ -1,0 +1,22 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import PositionCarouselDemo from './Carousel';
+
+<Meta title="Example/PositionCarouselDemo" component={PositionCarouselDemo} />
+
+# Example Component Demo
+
+## PositionCarouselDemo props
+
+<Props of={PositionCarouselDemo} />
+
+## Description
+
+`PositionCarouselDemo` component provides user basic interface to scroll pictures left or right.
+
+## Demo
+
+<Canvas>
+  <Story name="Example PositionCarouselDemo">
+    {args => <PositionCarouselDemo {...args} />}
+  </Story>
+</Canvas>
