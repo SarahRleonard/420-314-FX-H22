@@ -1,6 +1,6 @@
 {
-  "name": "stories_sleonard",
-  "version": "0.1.0",
+  "name": "tp1_storybook_sleonard",
+  "version": "1.0.0",
   "private": false,
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
