@@ -72,9 +72,21 @@ Introduction à l’environnement de production web
 
 ## Cours 5 / Installation E-Commerce, Base de données, Base de connaissances
 ### 18 janvier 2022
- 
-- Création de projet de base pour un nouveau site web transactionnel.
-- Consigner les informations d’environnement technologique dans un wiki.
+
+### Lectures en français sur WPBeginner.com
+
+- [Comment crééer un site web en 2022 - Guide étape par étape](https://www-wpbeginner-com.translate.goog/guides/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
+- [Combien coûte vraiment la création d'un site Web WordPress](https://www-wpbeginner-com.translate.goog/beginners-guide/how-much-does-it-cost-to-build-a-wordpress-website/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
+- [Comment installer WordPress - Tutoriel d'installation complet de WordPress](https://www-wpbeginner-com.translate.goog/how-to-install-wordpress/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
+- [Comment démarrer un blog WordPress – Guide facile – Créer un blog (2022)](https://www-wpbeginner-com.translate.goog/start-a-wordpress-blog/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
+
+### En classe
+
+- [Comment installer WordPress sur votre ordinateur](Cours%205/Comment%20installer%20WordPress%20sur%20votre%20ordinateur.pdf)
+- [Comment déplacer WordPress du serveur local vers le site en direct](Cours%205/Comment%20déplacer%20WordPress%20du%20serveur%20local%20vers%20le%20site%20en%20direct.pdf)
+- [Comment installer Wordpress en utilisant FTP](Cours%205/Comment%20installer%20Wordpress%20en%20utilisant%20FTP.pdf)
+- [Comment installer WordPress depuis cPanel et Softaculous](Cours%205/Comment%20installer%20WordPress%20depuis%20cPanel%20et%20Softaculous.pdf)
+- Consigner les informations d’environnement technologique dans un wiki
 
 ## Cours 6 / Configuration E-Commerce, Base de données
 ### 26 janvier 2022
