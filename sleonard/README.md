@@ -1,6 +1,9 @@
-URL pour visiter le site sur le serveur du Cegep : https://storybook.sleonard.devwebgarneau.com/
-URL pour visiter le package sur npmjs.com : https://www.npmjs.com/package/storybook_sleonard
-Github repo : https://github.com/SarahRleonard/storybook_sleonard
+## URL pour visiter le site sur le serveur du Cegep : 
+https://storybook.sleonard.devwebgarneau.com/
+## URL pour visiter le package sur npmjs.com : 
+https://www.npmjs.com/package/storybook_sleonard
+## Github repo : 
+https://github.com/SarahRleonard/storybook_sleonard
 
 [![Build Status](https://travis-ci.com/morewings/cra-template-npm-library.svg?branch=master)](https://travis-ci.com/morewings/cra-template-npm-library)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=morewings/cra-template-npm-library)](https://dependabot.com)
