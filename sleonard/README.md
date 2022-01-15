@@ -1,7 +1,7 @@
 ## URL pour visiter le site sur le serveur du Cegep : 
 https://storybook.sleonard.devwebgarneau.com/
 ## URL pour visiter le package sur npmjs.com : 
-https://www.npmjs.com/package/storybook_sleonard
+https://www.npmjs.com/package/storybook_sleonard_tp1
 ## Github repo : 
 https://github.com/SarahRleonard/storybook_sleonard
 
