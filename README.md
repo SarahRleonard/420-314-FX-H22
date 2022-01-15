@@ -79,6 +79,7 @@ Introduction à l’environnement de production web
 - [Combien coûte vraiment la création d'un site Web WordPress](https://www-wpbeginner-com.translate.goog/beginners-guide/how-much-does-it-cost-to-build-a-wordpress-website/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
 - [Comment installer WordPress - Tutoriel d'installation complet de WordPress](https://www-wpbeginner-com.translate.goog/how-to-install-wordpress/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
 - [Comment démarrer un blog WordPress – Guide facile – Créer un blog (2022)](https://www-wpbeginner-com.translate.goog/start-a-wordpress-blog/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
+- [Shopify vs WooCommerce – Quelle est la meilleure plateforme ? (Comparaison)](https://www-wpbeginner-com.translate.goog/opinion/shopify-vs-woocommerce-which-is-the-better-platform-comparison/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
 
 ### En classe
 
@@ -86,6 +87,7 @@ Introduction à l’environnement de production web
 - [Comment déplacer WordPress du serveur local vers le site en direct](Cours%205/Comment%20déplacer%20WordPress%20du%20serveur%20local%20vers%20le%20site%20en%20direct.pdf)
 - [Comment installer Wordpress en utilisant FTP](Cours%205/Comment%20installer%20Wordpress%20en%20utilisant%20FTP.pdf)
 - [Comment installer WordPress depuis cPanel et Softaculous](Cours%205/Comment%20installer%20WordPress%20depuis%20cPanel%20et%20Softaculous.pdf)
+- [Comment démarrer une boutique en ligne woocommerce en 2022 (étape par étape)](https://www-wpbeginner-com.translate.goog/wp-tutorials/how-to-start-an-online-store/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=en)
 - Consigner les informations d’environnement technologique dans un wiki
 
 ## Cours 6 / Configuration E-Commerce, Base de données
