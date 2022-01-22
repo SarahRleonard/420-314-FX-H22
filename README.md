@@ -91,7 +91,7 @@ Introduction à l’environnement de production web
 - Consigner les informations d’environnement technologique dans un wiki
 
 ## Cours 6 / Configuration E-Commerce, Base de données
-### 26 janvier 2022
+### 25 janvier 2022
 
 - Configurations de plateforme.
 - Fiches techniques d’un site transactionnel.
