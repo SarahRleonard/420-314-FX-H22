@@ -93,21 +93,20 @@ Introduction à l’environnement de production web
 ## Cours 6 / Configuration E-Commerce, Base de données
 ### 25 janvier 2022
 
-- Configurations de plateforme.
-- Fiches techniques d’un site transactionnel.
-- Choix du système selon les besoins.
-- Fiches techniques et processus de livraison.
+- [Processus d’évaluation d’un problème soulevé par un client](Cours%206/ProcessusSupport.md)
+- [Checklist du Support](Cours%206/ChecklistSupport.md)
 
-## Cours 7 / Formations aux clients Formations aux utilisateurs
+## Cours 7 / Formations aux clients Formations aux utilisateurs (Préparation Examen 2)
 ### 1 février 2022
 
-- Formations aux clients sur l'utilisation de leurs services d’hébergement.
+- Installation de OBS Studio
+- Formations aux clients sur l'utilisation de leurs services d’hébergement. (Pratique en groupe de 2)
+- Scénario Vidéo Examen 2
+- Configurations de plateforme (suite TP4) / démo et réponses aux questions.
 
-## Cours 8 / Examen 1 (90mins) / Soutien technique
+## Cours 8 / Examen 1 (120 mins) 
 ### 8 février 2022
-
-- Processus d’évaluation d’un problème soulevé par un client.
-- Consigner les informations des problèmes dans une base de connaissances.
+Support TP3 + exemples
 
 ## Cours 9 / Interventions de support à distance / Intervention directe
 ### 15 février 2022
@@ -123,7 +122,7 @@ Introduction à l’environnement de production web
 ## Cours 11 / Formations aux clients Formations aux utilisateurs
 ### 1 mars 2022
 
-- Activités d’enseignement et d’apprentissage
+- Formations aux clients sur l'utilisation de leurs services d'application. (Pratique en groupe de 2)
 
 ## Cours 12 / Formations aux clients Formations aux utilisateurs
 ### 4 mars 2022
