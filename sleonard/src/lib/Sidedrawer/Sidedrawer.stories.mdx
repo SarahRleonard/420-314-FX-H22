@@ -1,0 +1,20 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import Sidedrawer from './Sidedrawer';
+
+<Meta title="Example/Sidedrawer" component={Sidedrawer} />
+
+# Example Component Demo
+
+## Sidedrawer props
+
+<Props of={Sidedrawer} />
+
+## Description
+
+`Sidedrawer` component provides user basic side drawer to show different items without having to change page.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Sidedrawer">{args => <Sidedrawer {...args} />}</Story>
+</Canvas>

@@ -1,0 +1,20 @@
+import {Meta, Props, Canvas, Story} from '@storybook/addon-docs';
+import Searchbar from './Searchbar';
+
+<Meta title="Example/Searchbar" component={Searchbar} />
+
+# Example Component Demo
+
+## Searchbar props
+
+<Props of={Searchbar} />
+
+## Description
+
+`Searchbar` component provides user basic interface to have a button with multiple selection.
+
+## Demo
+
+<Canvas>
+  <Story name="Example Searchbar">{args => <Searchbar {...args} />}</Story>
+</Canvas>
