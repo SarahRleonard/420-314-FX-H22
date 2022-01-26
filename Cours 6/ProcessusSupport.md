@@ -17,7 +17,7 @@ Un SLA, c'est un service-level agreement ou « accord de niveau de service ». C
 Le service-level agreement (SLA) ou « accord de niveau de service » est un document qui définit la qualité de service, prestation prescrite entre un fournisseur de service et un client. Autrement dit, il s'agit de clauses basées sur un contrat définissant les objectifs précis attendus et le niveau de service que souhaite obtenir un client de la part du prestataire et fixe les responsabilités.
 
 ## Contenu du SLA 
-Les composants d’une bonne entente de niveau de service doivent comprendre les éléments suivants4 :
+Les composants d’une bonne entente de niveau de service doivent comprendre les éléments suivants :
 
 Le type de service à fournir : il doit spécifier les types de services ainsi que tous les détails de ces derniers. Dans le cas d’une connectivité réseau IP, les types de services doivent décrire les fonctions comme l’utilisation et la maintenance des équipements réseau, la largeur de bande de connexion à fournir, etc.
 
