@@ -2,7 +2,7 @@
 Installation Web et soutien technique
 TP2 Julie Bernier
 
-Lien de la Base de connaissance:
+Lien de la Base de connaissances:
 https://devjb.atlassian.net/l/c/zYQ8cco1
 
 CPanel:
