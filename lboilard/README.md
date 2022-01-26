@@ -4,7 +4,7 @@ Une invitation pour accéder à la base de connaissance vous a été envoyé par
 
 Voici mon email :  lboilard@outlook.com
 
-## Liens important :
+## Liens importants :
 
 https://boutique.lboilard.devwebgarneau.com/
 
