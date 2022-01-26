@@ -4,3 +4,10 @@ TP2 Julie Bernier
 
 Lien de la Base de connaissance:
 https://devjb.atlassian.net/l/c/zYQ8cco1
+
+CPanel:
+username: jbernier
+mot de passe: Joy88joy88*
+sous-domaine: www.boutique.jbernier.devwebgarneau.com
+
+
