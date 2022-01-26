@@ -4,7 +4,7 @@ https://travailpratique2.mcossette.devwebgarneau.com/
 
 La base de connaissances sécurisée contenant les informations de connexion et de configuration est en ligne!
 
-1. Rendez-vous sur mcossetteknowledgebase.atlassian.net
+1. Rendez-vous sur **mcossetteknowledgebase.atlassian.net**
 
 2. Créez un compte[^1]
 
