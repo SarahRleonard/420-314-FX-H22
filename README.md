@@ -67,7 +67,7 @@ Introduction à l’environnement de production web
 
 - [Programmation d’un processus automatisé de livraison avec Github](Guides%20Technique/ci-cd.md)
 - [Utilisation de conteneur avec Docker Compose](Guides%20Technique/docker_compose.md)
-- [Exercises pratique Chromatic](https://www.chromatic.com/docs/)
+- [Exercises pratique Chromatic](https://www.chromatic.com/docs/github-actions)
 - [Exercises pratique AWS](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
 
 ## Cours 5 / Installation E-Commerce, Base de données, Base de connaissances
