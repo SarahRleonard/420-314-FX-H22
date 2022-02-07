@@ -26,6 +26,8 @@ Introduction à l’environnement de production web
 - [Processus de gestion de projet web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/Processus%20Mise%20en%20Production.pdf)
 - [Découpage atomique](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/Component%20Driven.pdf) 
 - [Présentation du Gitflow](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/GIT.pdf)
+- [Présentation du DNS](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/GIT.pdf)
+- [Présentation du FTP](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/FTP.pdf)
 - Librairie de composantes réutilisable.
 - nuget, npm, composer, pip.
 - Le versionnage de packages et la gestion des dépendances.
