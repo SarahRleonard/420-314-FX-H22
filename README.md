@@ -109,6 +109,7 @@ Introduction à l’environnement de production web
 ## Cours 8 / Examen 1 (120 mins) 
 ### 8 février 2022
 Support TP3 + exemples
+- [Versionnage NPM](Guides%20Technique/npm_github_versionning.md)
 
 ## Cours 9 / Interventions de support à distance / Intervention directe
 ### 15 février 2022
