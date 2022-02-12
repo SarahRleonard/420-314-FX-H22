@@ -152,6 +152,7 @@ Vous baser sur les notions apprise dans le cours.
 # Livraison de votre Examen 2
 
 -	La remise doit se faire à l'aide d'un pull request sur la branche features/examenfinal.
+-	Vous devez créer une nouvelle branche à partir de la branche features/examenfinal.
 -	Votre branche doise débuter avec le préfixe : stories/exam et se terminer avec {user} où {user} c'est votre code utilisateur du cpanel
 -	La branche doit contenir les éléments suivants : 
 	-	Un répertoire à la racine : "user" où "user" c'est votre code utilisateur du cpanel
