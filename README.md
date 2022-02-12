@@ -86,7 +86,7 @@ Je veux être en mesure de récupérer ces informations de façons sécurisé.
 ### Présentation orale
 
 -	En tant que développeur web, vous devez traitrer la demande directement avec votre portail "Support aux utilisateurs".
--	Expliquer et rendre disponible dans la base de connaissances les informations demandés pour finalement résoudre l'incident.
+-	Expliquer votre résolution de la prise en charge jusqu'à la consolidation des informations dans la base de connaissances.
 -	Vous baser sur les notions apprise dans le cours.
 
 ## 2 - Création d'un incident concernant la plateforme transactionnelle mis en place dans le TP4.
@@ -106,7 +106,7 @@ Description : En tant que nouveau client, lorsque je teste l'application dans le
 ### Présentation orale
 
 -	En tant que développeur web, vous devez traitrer la demande directement avec votre portail "Support aux utilisateurs".
--	Expliquer votre résolution de la prise en charge à la consolidation des informations dans la base de connaissances.
+-	Expliquer votre résolution de la prise en charge jusqu'à la consolidation des informations dans la base de connaissances.
 -	Expliquer au client pourquoi le palier démo n'est pas une version prête pour la production. Prenez le temps d'expliquer l'éco-système dans lequel vous travaillez. 
 -	Expliquer que les incidents doivent être soulevés uniquement sur le palier de pré-production ou production.
 
@@ -125,13 +125,13 @@ Type : "Choisir un problème"
 Sommaire : Incapable d'avoir les informations des clients dans le CRM
 Components : "Laisser vide"
 Description : En tant que propriétaire du site web, j'ai constaté que je n'ai pas toujours les informations des contacts sur les ventes dans le CRM.
-Il semble que parfois ça marche, et parfois ça marche pas. J'ai 2000 utilisateurs dans la plateforme de commerce en-ligne contre 1000 dans le CRM.
+Il semble que parfois ça marche, et parfois ça ne marche pas. J'ai 2000 utilisateurs dans la plateforme de commerce en-ligne contre 1000 dans le CRM.
 On perd la moitié des contacts entre les deux. Je ne sais pas pourquoi. SVP, corriger la situation dans les plus brefs délais.
 Que se passe-t-il Lucile !?
 ```
 
 -	En tant que développeur web, vous devez traitrer la demande directement avec votre portail "Support aux utilisateurs".
--	Expliquer votre résolution de la prise en charge à la consolidation des informations dans la base de connaissances.
+-	Expliquer votre résolution de la prise en charge jusqu'à la consolidation des informations dans la base de connaissances.
 -	Adapter votre niveau de language à votre client qui soulève le problème et expliquer comment vous allez gérer la collaboration externe. 
 
 Vous baser sur les notions apprise dans le cours.
@@ -148,9 +148,11 @@ Vous baser sur les notions apprise dans le cours.
 -	Consigner votre plan de mise en production dans la base de connaissances.
 ```
 
+
 # Livraison de votre Examen 2
 
 -	La remise doit se faire à l'aide d'un pull request sur la branche features/examenfinal.
+-	Votre branche doise débuter avec le préfixe : stories/exam et se terminer avec {user} où {user} c'est votre code utilisateur du cpanel
 -	La branche doit contenir les éléments suivants : 
 	-	Un répertoire à la racine : "user" où "user" c'est votre code utilisateur du cpanel
 	-	Un fichier README.MD à l'intérieur du dossier mentionné ci-dessus
@@ -161,6 +163,10 @@ Vous baser sur les notions apprise dans le cours.
 				-	Nommer les fichiers "user_video1", "user_video2" et "user_video3" 
 					où user c'est votre code utilisateur du cpanel
 					
+# Rappel
+
+**Bien lire ce [document](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%206/ChecklistSupport.md)**
+
 **Lisez bien l'énoncé.** 
 
 **Chaque demande dans l'énoncé sera évalué.**
