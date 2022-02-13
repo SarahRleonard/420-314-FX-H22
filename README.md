@@ -87,7 +87,7 @@ Je veux être en mesure de récupérer ces informations de façons sécurisé.
 
 -	En tant que développeur web, vous devez traitrer la demande directement avec votre portail "Support aux utilisateurs".
 -	Expliquer votre résolution de la prise en charge jusqu'à la consolidation des informations dans la base de connaissances.
--	Vous baser sur les notions apprise dans le cours.
+-	Vous devez vous baser sur les notions apprises dans le cours.
 
 ## 2 - Création d'un incident concernant la plateforme transactionnelle mis en place dans le TP4.
 ### Procéder à une intervention de soutien technique indirecte
@@ -134,7 +134,7 @@ Que se passe-t-il Lucile !?
 -	Expliquer votre résolution de la prise en charge jusqu'à la consolidation des informations dans la base de connaissances.
 -	Adapter votre niveau de language à votre client qui soulève le problème et expliquer comment vous allez gérer la collaboration externe. 
 
-Vous baser sur les notions apprise dans le cours.
+Vous devez vous baser sur les notions apprise dans le cours.
 
 
 **Important :** 
@@ -168,8 +168,8 @@ Vous baser sur les notions apprise dans le cours.
 
 **Bien lire ce [document](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%206/ChecklistSupport.md)**
 
-**Lisez bien l'énoncé.** 
+**Lisez bien l'énoncé du travail pratique entièrement.** 
 
-**Chaque demande dans l'énoncé sera évalué.**
+**Chaque demande dans l'énoncé sera évaluée.**
 
 **Bonne chance à tous !**
