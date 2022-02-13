@@ -5058,6 +5058,11 @@
   "resolved" "https://registry.npmjs.org/chownr/-/chownr-2.0.0.tgz"
   "version" "2.0.0"
 
+"chromatic@^6.4.3":
+  "integrity" "sha512-Hxd85QNWwVo2VS9bIGa5bL06wjSt+EUT8ed48jnkOw7cnkkIQfnEVpwjOoZ/91C4rtRPw8w/2EwCHq+eWD4NNg=="
+  "resolved" "https://registry.npmjs.org/chromatic/-/chromatic-6.4.3.tgz"
+  "version" "6.4.3"
+
 "chrome-trace-event@^1.0.2":
   "integrity" "sha512-p3KULyQg4S7NIHixdwbGX+nFHkoBiA4YQmyWtjb8XngSKV124nJmRysgAeujbUVb15vh+RvFUfCPqU7rXk+hZg=="
   "resolved" "https://registry.npmjs.org/chrome-trace-event/-/chrome-trace-event-1.0.3.tgz"
