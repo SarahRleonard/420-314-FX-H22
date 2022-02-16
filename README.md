@@ -10,7 +10,7 @@
 ## Examens
 
 - **Examen 1** (Théorique (sur papier, cours 1 à 6) - Choix de réponses | **8 février 2022**
-- **Examen 2** (Production d'une vidéo de formation et de support aux utilisateurs) | **4 mars 2022**
+- [**Examen 2**](https://github.com/PLDubeFormation/420-314-FX-H22/blob/features/examenfinal/README.md) (Production d'une vidéo de formation et de support aux utilisateurs) | **4 mars 2022**
 
 ## Mise à niveau REACT Exercises pratiques
 
