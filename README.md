@@ -4,7 +4,7 @@
 
 - [Présentation du travail pratique #1](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP1/420-314-FX-H22-TP1.pdf) Remise le **11 janvier 2022**
 - [Présentation du travail pratique #2](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP2/420-314-FX-H22-TP2.pdf) Remise le **25 janvier 2022**
-- [Présentation du travail pratique #3](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP3/420-314-FX-H22-TP3.pdf) Remise le **17 février 2022**
+- [Présentation du travail pratique #3](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP3/420-314-FX-H22-TP3.pdf) Remise le **18 février 2022**
 - [Présentation du travail pratique #4](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP4/420-314-FX-H22-TP4.pdf) Remise le **1 mars 2022**
 
 ## Examens
