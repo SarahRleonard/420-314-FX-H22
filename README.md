@@ -4,7 +4,7 @@
 
 - [Présentation du travail pratique #1](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP1/420-314-FX-H22-TP1.pdf) Remise le **11 janvier 2022**
 - [Présentation du travail pratique #2](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP2/420-314-FX-H22-TP2.pdf) Remise le **25 janvier 2022**
-- [Présentation du travail pratique #3](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP3/420-314-FX-H22-TP3.pdf) Remise le **17 février 2022**
+- [Présentation du travail pratique #3](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP3/420-314-FX-H22-TP3.pdf) Remise le **20 février 2022**
 - [Présentation du travail pratique #4](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/TP4/420-314-FX-H22-TP4.pdf) Remise le **1 mars 2022**
 
 ## Examens
@@ -26,7 +26,7 @@ Introduction à l’environnement de production web
 - [Processus de gestion de projet web](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/Processus%20Mise%20en%20Production.pdf)
 - [Découpage atomique](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/Component%20Driven.pdf) 
 - [Présentation du Gitflow](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/GIT.pdf)
-- [Présentation du DNS](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/GIT.pdf)
+- [Présentation du DNS](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/DNS.pdf)
 - [Présentation du FTP](https://github.com/PLDubeFormation/420-314-FX-H22/blob/master/Cours%201/FTP.pdf)
 - Librairie de composantes réutilisable.
 - nuget, npm, composer, pip.
@@ -109,6 +109,7 @@ Introduction à l’environnement de production web
 ## Cours 8 / Examen 1 (120 mins) 
 ### 8 février 2022
 Support TP3 + exemples
+- [Versionnage NPM](Guides%20Technique/npm_github_versionning.md)
 
 ## Cours 9 / Interventions de support à distance / Intervention directe
 ### 15 février 2022
