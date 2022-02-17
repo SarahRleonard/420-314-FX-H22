@@ -1,6 +1,6 @@
 # Storybook :
 
-  https://github.com/Lenkwai/storybook.git
+  Lien storybook pour le workflow : https://github.com/Lenkwai/storybook.git
 
   Deploy by ftp : https://storybook.eleclere.devwebgarneau.com/?path=/story/docs-intro--page
   
@@ -10,4 +10,4 @@
 
 # NPM Package
 
-  https://github.com/NabilBouazzaoui/librairy_npm.git
+ Lien npm package pour le workflow :  https://github.com/NabilBouazzaoui/librairy_npm.git
