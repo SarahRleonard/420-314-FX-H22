@@ -1,0 +1,21 @@
+body{
+    background-color: #89B0AE;
+    color: #555B6E;
+    text-align: center;
+    margin-top: 270px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 18px;
+    color:#BEE3DB;
+}
+
+a:visited{
+    color:#BEE3DB;
+}
+
+a:hover{
+    font-size: 20px;
+    color: #FFD6BA;
+}
