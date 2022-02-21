@@ -1,3 +1,5 @@
+Nous avons décidé d'activer toutes les actions Github à partir d'un seul repo. Donc, lorsqu'on fait un commit avec le message RELEASE, le Storybook et le package npm sont mis à jour simultanément.
+
 # URL du repository
 
 https://github.com/MatCossette/tp1_mcossette_wgauvin
