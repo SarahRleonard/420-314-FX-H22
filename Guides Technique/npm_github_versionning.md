@@ -34,8 +34,8 @@ jobs:
       - uses: actions/checkout@v2
         with:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-      - run: git config --global user.name 'AboutBits Tech'
-      - run: git config --global user.email 'tech@aboutbits.it'
+      - run: git config --global user.name '${{ secrets.GH_PUBLIC_NAME }}'
+      - run: git config --global user.email '${{ secrets.GH_EMAIL }}'
       - run: npm version patch -m "[RELEASE] %s"
       - run: git push
 ```
