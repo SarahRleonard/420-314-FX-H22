@@ -1,2 +1,4 @@
 
-# URL pour voir la boutique jaro : https://boutiquejaro.nboua.devwebgarneau.com/index.php/boutique/
+# URL pour voir la boutique jaro : 
+
+https://boutiquejaro.nboua.devwebgarneau.com/index.php/boutique/
