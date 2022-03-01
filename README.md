@@ -122,13 +122,13 @@ Support TP3 + exemples
 
 - Comment bien structurer votre documentation de la conception jusqu’au support.
 
-## Cours 11 / Atelier pratique pour réaliser l'examen #2
+## Cours 11 / Atelier pratique pour réaliser le TP4 + l'examen #2
 ### 1 mars 2022
 
 - Atelier pratique pour réaliser le TP4
 - Atelier pratique pour réaliser l'examen 2
 
-## Cours 12 / Formations aux clients Formations aux utilisateurs
+## Cours 12 / Atelier pratique pour réaliser le TP4 + l'examen #2
 ### 4 mars 2022
 
 - Atelier pratique pour réaliser le TP4
