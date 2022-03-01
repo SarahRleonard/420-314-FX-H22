@@ -1,2 +1,2 @@
-####URL de la boutique en ligne:
+URL de la boutique en ligne:
 http://boutique.mcossette.devwebgarneau.com/
