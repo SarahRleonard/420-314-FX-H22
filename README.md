@@ -122,13 +122,14 @@ Support TP3 + exemples
 
 - Comment bien structurer votre documentation de la conception jusqu’au support.
 
-## Cours 11 / Formations aux clients Formations aux utilisateurs
+## Cours 11 / Atelier pratique pour réaliser l'examen #2
 ### 1 mars 2022
 
-- Formations aux clients sur l'utilisation de leurs services d'application. (Pratique en groupe de 2)
+- Atelier pratique pour réaliser le TP4
+- Atelier pratique pour réaliser l'examen 2
 
 ## Cours 12 / Formations aux clients Formations aux utilisateurs
 ### 4 mars 2022
 
-- Examen 2 - Remise présentation vidéo formations aux utilisateurs.
-
+- Atelier pratique pour réaliser le TP4
+- Atelier pratique pour réaliser l'examen 2
