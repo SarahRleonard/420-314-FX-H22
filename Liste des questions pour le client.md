@@ -16,6 +16,6 @@ Si oui, quelle sont les technologies que vous avez utilisées (langage de progra
 
 **7.** Combien d'article seront mis en vente environ ?
 
-**8.** Quel est votre client cible ?
+**8.** Quelle est votre clientèle cible ?
 
 **9.** Quel niveau d'achalandage vous pensiez avoir (sinon, quel état le niveau de votre ancien site web)
